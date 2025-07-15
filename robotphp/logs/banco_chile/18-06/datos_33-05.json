@@ -1,0 +1,65 @@
+[
+    {
+        "fecha":"17\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":562340,
+        "docto._nro.":3628973,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"17\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":147530,
+        "docto._nro.":2953234,
+        "sucursal":"OF. BUIN"
+    },
+    {
+        "fecha":"17\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":296430,
+        "docto._nro.":5076725,
+        "sucursal":"OF. LA FLORIDA"
+    },
+    {
+        "fecha":"17\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":165640,
+        "docto._nro.":2953230,
+        "sucursal":"OF. BUIN"
+    },
+    {
+        "fecha":"17\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":1337000,
+        "docto._nro.":5076272,
+        "sucursal":"OF. LA FLORIDA"
+    },
+    {
+        "fecha":"17\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":2095430,
+        "docto._nro.":3628988,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"17\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE CUENTA:1780098006",
+        "deposito_o_abono":21000000,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"17\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":60310,
+        "docto._nro.":3628980,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"17\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":15878541,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    }
+]

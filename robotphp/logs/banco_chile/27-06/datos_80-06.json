@@ -1,0 +1,30 @@
+[
+    {
+        "fecha":"26\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Angelis Moiselis Jimen",
+        "deposito_o_abono":2847458,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"26\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":1251528,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"26\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":2338677,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"26\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:TAPIA BRUNA KATTY ANDR",
+        "deposito_o_abono":163979,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    }
+]

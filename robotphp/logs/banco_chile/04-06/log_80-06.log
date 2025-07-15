@@ -1,0 +1,30 @@
+************** Ejecución de robot **************
+Clínica: Clínica Iopa
+Fecha y hora: 04-06-2025 10:04:15
+Robot: Robot Contabilidad Web-Scrapping
+Cuenta procesada (últimos 4 dígitos): 80-06
+
+Datos encontrados:
+
+     fecha                 detalle_movimiento  deposito_o_abono  cheque_o_cargo  docto._nro. sucursal
+03/06/2025 TRASPASO DE:VALENZUELA MELENDEZ AN            289000               0            0 INTERNET
+03/06/2025 TRASPASO DE:Felipe Ignacio Solis V            600000               0            0 INTERNET
+03/06/2025 TRASPASO DE:Paola Del Carmen Herna            250000               0            0 INTERNET
+03/06/2025 TRASPASO DE:GONZALEZ RUZ ORLANDO I            300000               0            0 INTERNET
+03/06/2025 PAGO:Abonos debito y credito Trans           1820225               0            0  CENTRAL
+03/06/2025 TRASPASO DE:TRUJILLO ABARCA ROMINA            500000               0            0 INTERNET
+03/06/2025 TRASPASO DE:ARCE DUPUY CATHERINE M            250000               0            0 INTERNET
+03/06/2025 TRASPASO DE:MERCADO AGUILERA PATRI             58550               0            0 INTERNET
+03/06/2025 TRASPASO DE:PASTEN MOLTEDO CARLA I            517640               0            0 INTERNET
+03/06/2025 PAGO:Abonos debito y credito Trans           1198532               0            0  CENTRAL
+03/06/2025 TRASPASO DE:REYES DROGUETT DAYSE M           2289143               0            0 INTERNET
+03/06/2025 TRASPASO DE:Elizabeth Rendic Olate           1230945               0            0 INTERNET
+03/06/2025 TRASPASO DE:CORDOVA FLORES SONIA D           1500000               0            0 INTERNET
+03/06/2025 TRASPASO DE:Jeannette Marie Gossel            545500               0            0 INTERNET
+03/06/2025 TRASPASO DE:Claudia Andrea Saez Du            617640               0            0 INTERNET
+03/06/2025 TRASPASO DE:SANCHEZ GONZALEZ MARCE            159289               0            0 INTERNET
+03/06/2025 TRASPASO DE:ACEVEDO BAEZA MARCIA D            100000               0            0 INTERNET
+03/06/2025 TRASPASO DE:MECANIZADOS E HIDRAULI            676300               0            0 INTERNET
+
+************** Fin Ejecución de robot **************
+

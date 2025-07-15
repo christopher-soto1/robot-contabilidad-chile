@@ -1,0 +1,44 @@
+[
+    {
+        "fecha":"27\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":348500,
+        "docto._nro.":1975479,
+        "sucursal":"OF. NUEVA PROVI"
+    },
+    {
+        "fecha":"27\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":454539,
+        "docto._nro.":5823490,
+        "sucursal":"OF. LA FLORIDA"
+    },
+    {
+        "fecha":"27\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":553860,
+        "docto._nro.":1975475,
+        "sucursal":"OF. NUEVA PROVI"
+    },
+    {
+        "fecha":"27\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":3122880,
+        "docto._nro.":4831176,
+        "sucursal":"OF. NUEVA PROVI"
+    },
+    {
+        "fecha":"27\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":53600,
+        "docto._nro.":2953225,
+        "sucursal":"OF. BUIN"
+    },
+    {
+        "fecha":"27\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":19399855,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    }
+]

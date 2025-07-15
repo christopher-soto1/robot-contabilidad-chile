@@ -1,0 +1,58 @@
+[
+    {
+        "fecha":"04\/06\/2025",
+        "detalle_movimiento":"PROVISION:DE SUELDOS 00001",
+        "deposito_o_abono":0,
+        "cheque_o_cargo":68543,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"04\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":703620,
+        "cheque_o_cargo":0,
+        "docto._nro.":3628955,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"04\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":16406945,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"04\/06\/2025",
+        "detalle_movimiento":"PAGO:INVERSIONES 0965712208",
+        "deposito_o_abono":100063102,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"04\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":251390,
+        "cheque_o_cargo":0,
+        "docto._nro.":3628797,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"04\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":208130,
+        "cheque_o_cargo":0,
+        "docto._nro.":6638843,
+        "sucursal":"OF. LA FLORIDA"
+    },
+    {
+        "fecha":"04\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":5093160,
+        "cheque_o_cargo":0,
+        "docto._nro.":3628909,
+        "sucursal":"PASEO LAS PALMA"
+    }
+]

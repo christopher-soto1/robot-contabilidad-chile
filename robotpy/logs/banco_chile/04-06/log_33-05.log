@@ -1,0 +1,26 @@
+************** Ejecución de robot **************
+Clínica: Clínica Iopa
+Fecha y hora: 04-06-2025 10:04:15
+Robot: Robot Contabilidad Web-Scrapping
+Cuenta procesada (últimos 4 dígitos): 33-05
+
+Datos encontrados:
+
+     fecha                 detalle_movimiento  deposito_o_abono  cheque_o_cargo  docto._nro.        sucursal
+03/06/2025               DEPOSITO EN EFECTIVO            748740               0      3628733 PASEO LAS PALMA
+03/06/2025               DEPOSITO EN EFECTIVO             52000               0      2953242        OF. BUIN
+03/06/2025 TRANSFERENCIA DE OTRO BANCO VIA SP          80007922               0            0         CENTRAL
+03/06/2025               DEPOSITO EN EFECTIVO           6531170               0      3628952 PASEO LAS PALMA
+03/06/2025               DEPOSITO EN EFECTIVO            591170               0      6638837  OF. LA FLORIDA
+03/06/2025               DEPOSITO EN EFECTIVO            118000               0      2953244        OF. BUIN
+03/06/2025               DEPOSITO EN EFECTIVO            543910               0      3628810 PASEO LAS PALMA
+03/06/2025               DEPOSITO EN EFECTIVO            197550               0      2953239        OF. BUIN
+03/06/2025               DEPOSITO EN EFECTIVO            238900               0      3628986 PASEO LAS PALMA
+03/06/2025               DEPOSITO EN EFECTIVO            302890               0      2953240        OF. BUIN
+03/06/2025               DEPOSITO EN EFECTIVO             74000               0      3628823 PASEO LAS PALMA
+03/06/2025               DEPOSITO EN EFECTIVO            200930               0      2953241        OF. BUIN
+03/06/2025 PAGO:Abonos debito y credito Trans          17718832               0            0         CENTRAL
+03/06/2025               DEPOSITO EN EFECTIVO            870000               0      6638838  OF. LA FLORIDA
+
+************** Fin Ejecución de robot **************
+

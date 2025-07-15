@@ -1,0 +1,18 @@
+************** Ejecución de robot **************
+Clínica: Clínica Iopa
+Fecha y hora: 30-05-2025 16:45:02
+Robot: Robot Contabilidad Web-Scrapping
+Cuenta procesada: 80-06
+
+Primer Movimiento:
+{'fecha': '29/05/2025', 'detalle_movimiento': 'TRASPASO DE:CESAR ANDRES PEREIRA L      ', 'deposito_o_abono': 1394712, 'docto._nro.': 0}
+
+DataFrame (datos relevantes):
+     fecha                       detalle_movimiento  deposito_o_abono  docto._nro.
+29/05/2025 TRASPASO DE:CESAR ANDRES PEREIRA L                 1394712            0
+29/05/2025 PAGO:Abonos debito y credito Trans                  907940            0
+29/05/2025 PAGO:Abonos debito y credito Trans                 1027222            0
+29/05/2025 TRASPASO DE:Matias Eduardo Ortiz                    211500            0
+29/05/2025 TRASPASO DE:Congregacion Instituto                  639428            0
+
+************** Fin Ejecución de robot **************

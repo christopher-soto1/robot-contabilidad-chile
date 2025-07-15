@@ -1,0 +1,37 @@
+[
+    {
+        "fecha":"02\/07\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":44640,
+        "docto._nro.":8864841,
+        "sucursal":"OF. NUEVA PROVI"
+    },
+    {
+        "fecha":"02\/07\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":1030650,
+        "docto._nro.":886406,
+        "sucursal":"OF. NUEVA PROVI"
+    },
+    {
+        "fecha":"02\/07\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":1916490,
+        "docto._nro.":3628743,
+        "sucursal":"OF. NUEVA PROVI"
+    },
+    {
+        "fecha":"02\/07\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":134160,
+        "docto._nro.":2953259,
+        "sucursal":"OF. BUIN"
+    },
+    {
+        "fecha":"02\/07\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":21584911,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    }
+]

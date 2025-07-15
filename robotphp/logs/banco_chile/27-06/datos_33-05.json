@@ -1,0 +1,79 @@
+[
+    {
+        "fecha":"26\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":196210,
+        "docto._nro.":2953162,
+        "sucursal":"OF. BUIN"
+    },
+    {
+        "fecha":"26\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":508910,
+        "docto._nro.":1975464,
+        "sucursal":"OF. NUEVA PROVI"
+    },
+    {
+        "fecha":"26\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":809600,
+        "docto._nro.":6631938,
+        "sucursal":"OF. LA FLORIDA"
+    },
+    {
+        "fecha":"26\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":16770,
+        "docto._nro.":6631964,
+        "sucursal":"OF. LA FLORIDA"
+    },
+    {
+        "fecha":"26\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":2231890,
+        "docto._nro.":8864843,
+        "sucursal":"OF. NUEVA PROVI"
+    },
+    {
+        "fecha":"26\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":81010,
+        "docto._nro.":1975466,
+        "sucursal":"OF. NUEVA PROVI"
+    },
+    {
+        "fecha":"26\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":50000,
+        "docto._nro.":1975465,
+        "sucursal":"OF. NUEVA PROVI"
+    },
+    {
+        "fecha":"26\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE CUENTA:1780098006",
+        "deposito_o_abono":14000000,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"26\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":477700,
+        "docto._nro.":6631939,
+        "sucursal":"OF. LA FLORIDA"
+    },
+    {
+        "fecha":"26\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":199159,
+        "docto._nro.":5823489,
+        "sucursal":"OF. LA FLORIDA"
+    },
+    {
+        "fecha":"26\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":13014273,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    }
+]

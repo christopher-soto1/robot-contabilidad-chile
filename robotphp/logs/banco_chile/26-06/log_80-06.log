@@ -1,0 +1,36 @@
+************** Ejecución de robot **************
+Clínica: Clínica Iopa
+Fecha y hora: 26-06-2025 17:44:10
+Robot: Robot Contabilidad Web-Scrapping
+Cuenta procesada (Nro. Cuenta Bancaria - últimos 4 dígitos): 80-06
+
+Datos encontrados:
+
+     fecha                 detalle_movimiento  deposito_o_abono  docto._nro.        sucursal
+25/06/2025 PAGO:Abonos debito y credito Trans           2063521            0         CENTRAL
+25/06/2025  TRASPASO DE:JOSE OSVALDO FIGUEROA           1220100            0        INTERNET
+25/06/2025 PAGO:Abonos debito y credito Trans           2274654            0         CENTRAL
+25/06/2025               DEPOSITO EN EFECTIVO            339000      3628796 PASEO LAS PALMA
+25/06/2025 TRASPASO DE:DIAZ VENEGAS CONSTANZA            100000            0        INTERNET
+25/06/2025        PAGO:PROVEEDORES 0995090007            992266            0         CENTRAL
+25/06/2025 TRASPASO DE:MORENO CACERES JOSE GU              1000            0        INTERNET
+25/06/2025 TRASPASO DE:Jaime Ramon Lopez Viva            788343            0        INTERNET
+25/06/2025 TRASPASO DE:SILVIA INES ESPINA URE            600000            0        INTERNET
+25/06/2025               DEPOSITO EN EFECTIVO           1101000      3628827 PASEO LAS PALMA
+25/06/2025 TRASPASO DE:Juana Nelly Olivares L             10000            0        INTERNET
+
+Total de ingresos: 9.489.884
+
+************** Fin Ejecución de robot **************
+
+
+
+************************************************
+** Información de Comprobante Softland **
+************************************************
+Fecha del registro: 26-06-2025
+Nro. Cuenta Procesada: 1-01-01-007
+Número de Comprobante: 00006117
+Monto Total de Depósito: 9.489.884
+Anticipo Cliente Insertado: Sí
+************************************************

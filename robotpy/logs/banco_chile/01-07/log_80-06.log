@@ -1,0 +1,25 @@
+************** Ejecución de robot **************
+Clínica: Clínica Iopa
+Fecha y hora: 01-07-2025 16:34:08
+Robot: Robot Contabilidad Web-Scrapping
+Cuenta procesada (Nro. Cuenta Bancaria - últimos 4 dígitos): 80-06
+
+Datos encontrados:
+
+     fecha                 detalle_movimiento  deposito_o_abono  docto._nro.        sucursal
+30/06/2025 PAGO:Abonos debito y credito Trans           1488690            0         CENTRAL
+30/06/2025 TRASPASO DE:WALKER PUSCHEL ANNELIE             10000            0        INTERNET
+30/06/2025 TRASPASO DE:Juana Nelly Olivares L           1301305            0        INTERNET
+30/06/2025  TRASPASO DE:Yessenia Ivania Silva            350000            0        INTERNET
+30/06/2025  TRASPASO DE:ALVARO OSVALDO MORAGA            150000            0        INTERNET
+30/06/2025               DEPOSITO EN EFECTIVO            676300      1052504     OF. LLOLLEO
+30/06/2025               DEPOSITO EN EFECTIVO             70000      8864799 PASEO LAS PALMA
+30/06/2025 PAGO:Abonos debito y credito Trans           1643067            0         CENTRAL
+30/06/2025 TRASPASO DE:Juana Nelly Olivares L           1291305            0        INTERNET
+30/06/2025        TRASPASO DE:Laura Ines Soto            534192            0        INTERNET
+30/06/2025 TRASPASO DE:FERNANDO NESTOR REBOLL             36010            0        INTERNET
+
+Total de ingresos: 7.550.869
+
+************** Fin Ejecución de robot **************
+

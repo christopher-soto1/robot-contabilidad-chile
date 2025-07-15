@@ -1,0 +1,23 @@
+************** Ejecución de robot **************
+Clínica: Clínica Iopa
+Fecha y hora: 23-06-2025 11:09:59
+Robot: Robot Contabilidad Web-Scrapping
+Cuenta procesada (Nro. Cuenta Bancaria - últimos 4 dígitos): 33-05
+
+Datos encontrados:
+
+     fecha                 detalle_movimiento  deposito_o_abono  docto._nro.        sucursal
+19/06/2025               DEPOSITO EN EFECTIVO            400870      6631935  OF. LA FLORIDA
+19/06/2025               DEPOSITO EN EFECTIVO            132300      2953232        OF. BUIN
+19/06/2025               DEPOSITO EN EFECTIVO            151110      3628801 PASEO LAS PALMA
+19/06/2025 PAGO:Abonos debito y credito Trans          13846140            0         CENTRAL
+19/06/2025     TRASPASO DE:COBIAN MEDICAL SPA           2594200            0        INTERNET
+19/06/2025               DEPOSITO EN EFECTIVO            157140      3628913 PASEO LAS PALMA
+19/06/2025               DEPOSITO EN EFECTIVO            653340      3628954 PASEO LAS PALMA
+19/06/2025      TRASPASO DE CUENTA:1780098006          17000000            0         CENTRAL
+19/06/2025               DEPOSITO EN EFECTIVO            742810      3628987 PASEO LAS PALMA
+
+Total de ingresos: 35.677.910
+
+************** Fin Ejecución de robot **************
+

@@ -1,0 +1,58 @@
+[
+    {
+        "fecha":"06\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":1308334,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"06\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Jose Gregorio Diaz",
+        "deposito_o_abono":136850,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"06\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:ROMINA ANDREA CAMPOS P",
+        "deposito_o_abono":713610,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"06\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:VASQUEZ CHAVEZ DANIEL",
+        "deposito_o_abono":200000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"06\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:CENTRO DE ESTUDIOS CLI",
+        "deposito_o_abono":720000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"06\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":613654,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"06\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Christian Andres Reyes",
+        "deposito_o_abono":10710,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    }
+]

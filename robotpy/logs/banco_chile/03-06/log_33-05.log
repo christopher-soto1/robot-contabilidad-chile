@@ -1,0 +1,21 @@
+************** Ejecución de robot **************
+Clínica: Clínica Iopa
+Fecha y hora: 03-06-2025 18:24:51
+Robot: Robot Contabilidad Web-Scrapping
+Cuenta procesada (últimos 4 dígitos): 33-05
+
+Datos encontrados:
+
+     fecha                       detalle_movimiento  deposito_o_abono  cheque_o_cargo  docto._nro.        sucursal
+02/06/2025 PAC VERISURE CHILE SPA                                   0          529810            0 CENTRAL        
+02/06/2025 DEPOSITO EN EFECTIVO                               8546570               0      3628772 PASEO LAS PALMA
+02/06/2025 DEPOSITO EN EFECTIVO                                284250               0      6638835 OF. LA FLORIDA 
+02/06/2025 DEPOSITO EN EFECTIVO                                109170               0      6638836 OF. LA FLORIDA 
+02/06/2025 DEPOSITO EN EFECTIVO                                200870               0      3628811 PASEO LAS PALMA
+02/06/2025 DEP.CHEQ.OTROS BANCOS                                96000               0      3628939 PASEO LAS PALMA
+02/06/2025 PAGO:Abonos debito y credito Trans                15066575               0            0 CENTRAL        
+02/06/2025 TRASPASO DE CUENTA:1780098006                     11000000               0            0 CENTRAL        
+02/06/2025 DEPOSITO EN EFECTIVO                                727220               0      3628802 PASEO LAS PALMA
+
+************** Fin Ejecución de robot **************
+

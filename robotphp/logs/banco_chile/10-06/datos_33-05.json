@@ -1,0 +1,66 @@
+[
+    {
+        "fecha":"09\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":563280,
+        "cheque_o_cargo":0,
+        "docto._nro.":3628798,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"09\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":149900,
+        "cheque_o_cargo":0,
+        "docto._nro.":3628809,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"09\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":2938640,
+        "cheque_o_cargo":0,
+        "docto._nro.":3628944,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"09\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":60,
+        "cheque_o_cargo":0,
+        "docto._nro.":6638839,
+        "sucursal":"OF. LA FLORIDA"
+    },
+    {
+        "fecha":"09\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":16770,
+        "cheque_o_cargo":0,
+        "docto._nro.":6638840,
+        "sucursal":"OF. LA FLORIDA"
+    },
+    {
+        "fecha":"09\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE CUENTA:1780098006",
+        "deposito_o_abono":16000000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"09\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":17122136,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"09\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:COMERCIAL TU CREDENCIA",
+        "deposito_o_abono":32963,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    }
+]

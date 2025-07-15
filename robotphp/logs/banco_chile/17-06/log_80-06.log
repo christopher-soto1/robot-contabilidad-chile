@@ -1,0 +1,42 @@
+************** Ejecución de robot **************
+Clínica: Clínica Iopa
+Fecha y hora: 17-06-2025 09:50:15
+Robot: Robot Contabilidad Web-Scrapping
+Cuenta procesada (Nro. Cuenta Bancaria - últimos 4 dígitos): 80-06
+
+Datos encontrados:
+
+     fecha                 detalle_movimiento  deposito_o_abono  docto._nro.        sucursal
+16/06/2025 TRASPASO DE:Valentina Javiera Reye             10000            0        INTERNET
+16/06/2025 TRASPASO DE:Marcela Rocio Suarez A            879832            0        INTERNET
+16/06/2025 TRASPASO DE:Valentina Javiera Reye            698887            0        INTERNET
+16/06/2025 TRASPASO DE:KATTY ANDREA TAPIA BRU            150000            0        INTERNET
+16/06/2025 TRASPASO DE:Victor Eduardo Alborno            790910            0        INTERNET
+16/06/2025 TRASPASO DE:LEON ALVAREZ ELIZABETH            100000            0        INTERNET
+16/06/2025 TRASPASO DE:Laura Ines Soto Valdiv            350000            0        INTERNET
+16/06/2025 TRASPASO DE:Nidia Ester Canales Ve            350000            0        INTERNET
+16/06/2025 TRASPASO DE:SERGIO GUSTAVO CARRASC            255976            0        INTERNET
+16/06/2025 PAGO:Abonos debito y credito Trans            515566            0         CENTRAL
+16/06/2025 TRASPASO DE:OROSTICA URREA SOLANGE             10000            0        INTERNET
+16/06/2025 TRASPASO DE:Nidia Ester Canales Ve            267640            0        INTERNET
+16/06/2025  TRASPASO DE:TORO DIAZ CARLOS RENE              5000            0        INTERNET
+16/06/2025 PAGO:Abonos debito y credito Trans            850551            0         CENTRAL
+16/06/2025               DEPOSITO EN EFECTIVO             70000      3628925 PASEO LAS PALMA
+16/06/2025  TRASPASO DE:PENTZ VASQUEZ RODOLFO             10000            0        INTERNET
+16/06/2025  TRASPASO DE:JIMMY ALEXIS DIBARRAT              1000            0        INTERNET
+
+Total de ingresos: 5.315.362
+
+************** Fin Ejecución de robot **************
+
+
+
+************************************************
+** Información de Comprobante Softland **
+************************************************
+Fecha del registro: 17-06-2025
+Nro. Cuenta Procesada: 1-01-01-007
+Número de Comprobante: 00006073
+Monto Total de Depósito: 5.315.362
+Anticipo Cliente Insertado: Sí
+************************************************

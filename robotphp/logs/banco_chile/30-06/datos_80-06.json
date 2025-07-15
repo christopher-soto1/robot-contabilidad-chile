@@ -1,0 +1,65 @@
+[
+    {
+        "fecha":"27\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:MANUEL DEL CARMEN MUNO",
+        "deposito_o_abono":300000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"27\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:PATRICIO ANTONIO ANDIA",
+        "deposito_o_abono":1000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"27\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:DIAZ VENEGAS CONSTANZA",
+        "deposito_o_abono":928961,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"27\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":500000,
+        "docto._nro.":1975476,
+        "sucursal":"OF. NUEVA PROVI"
+    },
+    {
+        "fecha":"27\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:PENTZ VASQUEZ RODOLFO",
+        "deposito_o_abono":242509,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"27\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Nicolas Ramon Roldan P",
+        "deposito_o_abono":2000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"27\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":70000,
+        "docto._nro.":8864842,
+        "sucursal":"OF. NUEVA PROVI"
+    },
+    {
+        "fecha":"27\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":1559564,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"27\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":1775809,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    }
+]

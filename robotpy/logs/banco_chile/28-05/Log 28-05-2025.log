@@ -1,0 +1,27 @@
+****** Ejecución de robot ******
+Clínica: Clínica Iopa
+Fecha y hora: 28-05-2025 11:49:01
+Robot: Robot Contabilidad Web-Scrapping
+
+Primer Movimiento:
+{'Fecha': '27/05/2025', 'Detalle Movimiento': 'Traspaso a 96571220-8 FMU               ', 'Deposito o Abono': 0, 'Docto. Nro.': '00000000000'}
+
+DataFrame completo:
+Fecha      Detalle Movimiento                        Deposito o Abono Docto. Nro.
+27/05/2025 Traspaso a 96571220-8 FMU                       0          00000000000
+27/05/2025 PAGO:Abonos debito y credito Trans       17366140          00000000000
+27/05/2025 DEPOSITO EN EFECTIVO                       161850          00002953166
+27/05/2025 DEPOSITO EN EFECTIVO                       611096          00005823486
+27/05/2025 TRASPASO DE CUENTA:1780098006            30000000          00000000000
+27/05/2025 DEPOSITO EN EFECTIVO                      8914780          00003628891
+27/05/2025 DEPOSITO EN EFECTIVO                        52000          00002953219
+27/05/2025 DEPOSITO EN EFECTIVO                       229470          00002953238
+27/05/2025 DEPOSITO EN EFECTIVO                       870610          00003628826
+27/05/2025 DEPOSITO EN EFECTIVO                       117390          00002953236
+27/05/2025 DEPOSITO EN EFECTIVO                       337000          00006638826
+27/05/2025 DEPOSITO EN EFECTIVO                       118360          00002953237
+
+Sumatoria general:
+Total Abonos: 58.778.696
+
+✅ Ejecución finalizada correctamente.

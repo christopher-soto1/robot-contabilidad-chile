@@ -1,0 +1,19 @@
+************** Ejecución de robot **************
+Clínica: Clínica Iopa
+Fecha y hora: 09-06-2025 13:50:18
+Robot: Robot Contabilidad Web-Scrapping
+Cuenta procesada (últimos 4 dígitos): 80-06
+
+Datos encontrados:
+
+     fecha                 detalle_movimiento  deposito_o_abono  cheque_o_cargo  docto._nro. sucursal
+06/06/2025 PAGO:Abonos debito y credito Trans           1308334               0            0  CENTRAL
+06/06/2025     TRASPASO DE:Jose Gregorio Diaz            136850               0            0 INTERNET
+06/06/2025 TRASPASO DE:ROMINA ANDREA CAMPOS P            713610               0            0 INTERNET
+06/06/2025  TRASPASO DE:VASQUEZ CHAVEZ DANIEL            200000               0            0 INTERNET
+06/06/2025 TRASPASO DE:CENTRO DE ESTUDIOS CLI            720000               0            0 INTERNET
+06/06/2025 PAGO:Abonos debito y credito Trans            613654               0            0  CENTRAL
+06/06/2025 TRASPASO DE:Christian Andres Reyes             10710               0            0 INTERNET
+
+************** Fin Ejecución de robot **************
+

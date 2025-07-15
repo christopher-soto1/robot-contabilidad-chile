@@ -1,0 +1,58 @@
+[
+    {
+        "fecha":"11\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO                    ",
+        "deposito_o_abono":362000,
+        "cheque_o_cargo":0,
+        "docto._nro.":5823472,
+        "sucursal":"OF. LA FLORIDA "
+    },
+    {
+        "fecha":"11\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans      ",
+        "deposito_o_abono":25215689,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL        "
+    },
+    {
+        "fecha":"11\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO                    ",
+        "deposito_o_abono":146380,
+        "cheque_o_cargo":0,
+        "docto._nro.":3628998,
+        "sucursal":"OF. NUEVA PROVI"
+    },
+    {
+        "fecha":"11\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE CUENTA:1780098006           ",
+        "deposito_o_abono":15000000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL        "
+    },
+    {
+        "fecha":"11\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO                    ",
+        "deposito_o_abono":695900,
+        "cheque_o_cargo":0,
+        "docto._nro.":3628968,
+        "sucursal":"OF. NUEVA PROVI"
+    },
+    {
+        "fecha":"11\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO                    ",
+        "deposito_o_abono":525910,
+        "cheque_o_cargo":0,
+        "docto._nro.":5823473,
+        "sucursal":"OF. LA FLORIDA "
+    },
+    {
+        "fecha":"11\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO                    ",
+        "deposito_o_abono":2910740,
+        "cheque_o_cargo":0,
+        "docto._nro.":3628916,
+        "sucursal":"OF. NUEVA PROVI"
+    }
+]

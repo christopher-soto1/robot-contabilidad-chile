@@ -1,0 +1,34 @@
+************** Ejecución de robot **************
+Clínica: Clínica Iopa
+Fecha y hora: 30-06-2025 17:53:06
+Robot: Robot Contabilidad Web-Scrapping
+Cuenta procesada (Nro. Cuenta Bancaria - últimos 4 dígitos): 80-06
+
+Datos encontrados:
+
+     fecha                 detalle_movimiento  deposito_o_abono  docto._nro.        sucursal
+27/06/2025 TRASPASO DE:MANUEL DEL CARMEN MUNO            300000            0        INTERNET
+27/06/2025 TRASPASO DE:PATRICIO ANTONIO ANDIA              1000            0        INTERNET
+27/06/2025 TRASPASO DE:DIAZ VENEGAS CONSTANZA            928961            0        INTERNET
+27/06/2025               DEPOSITO EN EFECTIVO            500000      1975476 OF. NUEVA PROVI
+27/06/2025  TRASPASO DE:PENTZ VASQUEZ RODOLFO            242509            0        INTERNET
+27/06/2025 TRASPASO DE:Nicolas Ramon Roldan P              2000            0        INTERNET
+27/06/2025               DEPOSITO EN EFECTIVO             70000      8864842 OF. NUEVA PROVI
+27/06/2025 PAGO:Abonos debito y credito Trans           1559564            0         CENTRAL
+27/06/2025 PAGO:Abonos debito y credito Trans           1775809            0         CENTRAL
+
+Total de ingresos: 5.379.843
+
+************** Fin Ejecución de robot **************
+
+
+
+************************************************
+** Información de Comprobante Softland **
+************************************************
+Fecha del registro: 30-06-2025
+Nro. Cuenta Procesada: 1-01-01-007
+Número de Comprobante: 00006150
+Monto Total de Depósito: 5.379.843
+Anticipo Cliente Insertado: Sí
+************************************************

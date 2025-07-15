@@ -1,0 +1,121 @@
+[
+    {
+        "fecha":"16\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Valentina Javiera Reye",
+        "deposito_o_abono":10000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"16\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Marcela Rocio Suarez A",
+        "deposito_o_abono":879832,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"16\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Valentina Javiera Reye",
+        "deposito_o_abono":698887,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"16\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:KATTY ANDREA TAPIA BRU",
+        "deposito_o_abono":150000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"16\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Victor Eduardo Alborno",
+        "deposito_o_abono":790910,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"16\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:LEON ALVAREZ ELIZABETH",
+        "deposito_o_abono":100000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"16\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Laura Ines Soto Valdiv",
+        "deposito_o_abono":350000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"16\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Nidia Ester Canales Ve",
+        "deposito_o_abono":350000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"16\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:SERGIO GUSTAVO CARRASC",
+        "deposito_o_abono":255976,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"16\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":515566,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"16\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:OROSTICA URREA SOLANGE",
+        "deposito_o_abono":10000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"16\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Nidia Ester Canales Ve",
+        "deposito_o_abono":267640,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"16\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:TORO DIAZ CARLOS RENE",
+        "deposito_o_abono":5000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"16\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":850551,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"16\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":70000,
+        "docto._nro.":3628925,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"16\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:PENTZ VASQUEZ RODOLFO",
+        "deposito_o_abono":10000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"16\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:JIMMY ALEXIS DIBARRAT",
+        "deposito_o_abono":1000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "fecha":"02\/07\/2025",
+        "detalle_movimiento":"TRASPASO DE:MORENO CACERES JOSE GU",
+        "deposito_o_abono":2988775,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"02\/07\/2025",
+        "detalle_movimiento":"TRASPASO DE:ISABEL MARGARITA ROBLE",
+        "deposito_o_abono":676300,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"02\/07\/2025",
+        "detalle_movimiento":"TRASPASO DE:Edith Del Carmen Leiva",
+        "deposito_o_abono":2058540,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"02\/07\/2025",
+        "detalle_movimiento":"TRASPASO DE:CARIS MENDEZ GLORIA DE",
+        "deposito_o_abono":1492908,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"02\/07\/2025",
+        "detalle_movimiento":"TRASPASO DE:Edith Del Carmen Leiva",
+        "deposito_o_abono":1,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"02\/07\/2025",
+        "detalle_movimiento":"PAGO:PROVEEDORES 0995090007",
+        "deposito_o_abono":1242004,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"02\/07\/2025",
+        "detalle_movimiento":"TRASPASO DE:Marco Antonio Candia G",
+        "deposito_o_abono":1000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"02\/07\/2025",
+        "detalle_movimiento":"TRASPASO DE:Jaime Ramon Lopez Viva",
+        "deposito_o_abono":1388343,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"02\/07\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":1042301,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"02\/07\/2025",
+        "detalle_movimiento":"TRASPASO DE:Angelica Aida Romo Qui",
+        "deposito_o_abono":853325,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"02\/07\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":2012857,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"02\/07\/2025",
+        "detalle_movimiento":"TRASPASO DE:MAXIMILIANO ALFREDO BA",
+        "deposito_o_abono":350000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    }
+]

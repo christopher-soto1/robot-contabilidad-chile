@@ -1,0 +1,74 @@
+[
+    {
+        "fecha":"10\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":198190,
+        "cheque_o_cargo":0,
+        "docto._nro.":2953248,
+        "sucursal":"OF. BUIN"
+    },
+    {
+        "fecha":"10\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":5477990,
+        "cheque_o_cargo":0,
+        "docto._nro.":3628926,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"10\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":134490,
+        "cheque_o_cargo":0,
+        "docto._nro.":2953247,
+        "sucursal":"OF. BUIN"
+    },
+    {
+        "fecha":"10\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":18575724,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"10\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":165850,
+        "cheque_o_cargo":0,
+        "docto._nro.":3628921,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"10\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":482080,
+        "cheque_o_cargo":0,
+        "docto._nro.":5823470,
+        "sucursal":"OF. LA FLORIDA"
+    },
+    {
+        "fecha":"10\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":2052150,
+        "cheque_o_cargo":0,
+        "docto._nro.":5823471,
+        "sucursal":"OF. LA FLORIDA"
+    },
+    {
+        "fecha":"10\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":305150,
+        "cheque_o_cargo":0,
+        "docto._nro.":3628931,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"10\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":434600,
+        "cheque_o_cargo":0,
+        "docto._nro.":6638841,
+        "sucursal":"OF. LA FLORIDA"
+    }
+]

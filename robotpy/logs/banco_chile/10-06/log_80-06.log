@@ -1,0 +1,26 @@
+************** Ejecución de robot **************
+Clínica: Clínica Iopa
+Fecha y hora: 10-06-2025 15:16:37
+Robot: Robot Contabilidad Web-Scrapping
+Cuenta procesada (últimos 4 dígitos): 80-06
+
+Datos encontrados:
+
+     fecha                 detalle_movimiento  deposito_o_abono  cheque_o_cargo  docto._nro.        sucursal
+09/06/2025 PAGO:Abonos debito y credito Trans           1377569               0            0         CENTRAL
+09/06/2025 TRASPASO DE:Jenaro Andres Orellana            350000               0            0        INTERNET
+09/06/2025 TRASPASO DE:Maricel Yanet Munoz Bu             73760               0            0        INTERNET
+09/06/2025 TRASPASO DE:VALENZUELA MELENDEZ AN             81415               0            0        INTERNET
+09/06/2025               DEPOSITO EN EFECTIVO            824600               0      3628806 PASEO LAS PALMA
+09/06/2025 TRASPASO DE:LEONCIO SEGUNDO ANDRAD           1000000               0            0        INTERNET
+09/06/2025 TRASPASO DE:Raquel Andrea Figueroa            119847               0            0        INTERNET
+09/06/2025 PAGO:Abonos debito y credito Trans            921028               0            0         CENTRAL
+09/06/2025  TRASPASO DE:MARQUEZ SILVA PAULINA            197570               0            0        INTERNET
+09/06/2025 TRASPASO DE:Elizabeth Rendic Olate           1480945               0            0        INTERNET
+09/06/2025 TRASPASO DE:INVERSIONES GO TRADE S            397347               0            0        INTERNET
+09/06/2025 TRASPASO DE:MORALES MORALES GERMAI            226257               0            0        INTERNET
+
+Sumatoria total de ingresos: 7.050.338
+
+************** Fin Ejecución de robot **************
+

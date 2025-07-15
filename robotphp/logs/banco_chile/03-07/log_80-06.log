@@ -1,0 +1,26 @@
+************** Ejecución de robot **************
+Clínica: Clínica Iopa
+Fecha y hora: 03-07-2025 10:01:41
+Robot: Robot Contabilidad Web-Scrapping
+Cuenta procesada (Nro. Cuenta Bancaria - últimos 4 dígitos): 80-06
+
+Datos encontrados:
+
+     fecha                 detalle_movimiento  deposito_o_abono  docto._nro. sucursal
+02/07/2025 TRASPASO DE:MORENO CACERES JOSE GU           2988775            0 INTERNET
+02/07/2025 TRASPASO DE:ISABEL MARGARITA ROBLE            676300            0 INTERNET
+02/07/2025 TRASPASO DE:Edith Del Carmen Leiva           2058540            0 INTERNET
+02/07/2025 TRASPASO DE:CARIS MENDEZ GLORIA DE           1492908            0 INTERNET
+02/07/2025 TRASPASO DE:Edith Del Carmen Leiva                 1            0 INTERNET
+02/07/2025        PAGO:PROVEEDORES 0995090007           1242004            0  CENTRAL
+02/07/2025 TRASPASO DE:Marco Antonio Candia G              1000            0 INTERNET
+02/07/2025 TRASPASO DE:Jaime Ramon Lopez Viva           1388343            0 INTERNET
+02/07/2025 PAGO:Abonos debito y credito Trans           1042301            0  CENTRAL
+02/07/2025 TRASPASO DE:Angelica Aida Romo Qui            853325            0 INTERNET
+02/07/2025 PAGO:Abonos debito y credito Trans           2012857            0  CENTRAL
+02/07/2025 TRASPASO DE:MAXIMILIANO ALFREDO BA            350000            0 INTERNET
+
+Total de ingresos: 14.106.354
+
+************** Fin Ejecución de robot **************
+

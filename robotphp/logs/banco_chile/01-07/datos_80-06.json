@@ -1,0 +1,79 @@
+[
+    {
+        "fecha":"30\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":1488690,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"30\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:WALKER PUSCHEL ANNELIE",
+        "deposito_o_abono":10000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"30\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Juana Nelly Olivares L",
+        "deposito_o_abono":1301305,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"30\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Yessenia Ivania Silva",
+        "deposito_o_abono":350000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"30\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:ALVARO OSVALDO MORAGA",
+        "deposito_o_abono":150000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"30\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":676300,
+        "docto._nro.":1052504,
+        "sucursal":"OF. LLOLLEO"
+    },
+    {
+        "fecha":"30\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":70000,
+        "docto._nro.":8864799,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"30\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":1643067,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"30\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Juana Nelly Olivares L",
+        "deposito_o_abono":1291305,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"30\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Laura Ines Soto",
+        "deposito_o_abono":534192,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"30\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:FERNANDO NESTOR REBOLL",
+        "deposito_o_abono":36010,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    }
+]

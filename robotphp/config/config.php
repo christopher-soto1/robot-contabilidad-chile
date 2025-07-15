@@ -1,0 +1,12 @@
+<?php
+  //define('URL','http://localhost/eticket/');
+  //define('HOST','localhost');
+  //define('DB','eticket');
+  //define('USER','root');
+  //define('PASSWORD','');
+  //define('CHARSET','utf8mb4');
+  //define('CORREO','soporte1@iopa.cl');
+  //define('PWCORREO','uv5s-i^gcJDL');
+  define('CORREO','soporte@iopa.cl');
+  define('PWCORREO','P&[03IeFu@sw');
+?>

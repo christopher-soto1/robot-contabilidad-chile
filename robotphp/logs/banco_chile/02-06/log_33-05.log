@@ -1,0 +1,25 @@
+************** Ejecución de robot **************
+Clínica: Clínica Iopa
+Fecha y hora: 02-06-2025 09:43:13
+Robot: Robot Contabilidad Web-Scrapping
+Cuenta procesada: 33-05
+
+Primer Movimiento:
+{'fecha': '30/05/2025', 'detalle_movimiento': 'Traspaso a 96571220-8 FMU               ', 'deposito_o_abono': 0, 'docto._nro.': 0, 'sucursal': 'BANCHILE INV   ', 'cheque_o_cargo': 100000000}
+
+DataFrame (datos relevantes):
+     fecha                       detalle_movimiento  deposito_o_abono  docto._nro.        sucursal  cheque_o_cargo
+30/05/2025 Traspaso a 96571220-8 FMU                                0            0 BANCHILE INV          100000000
+30/05/2025 PROVISION:DE HONORARIOS 00001                            0            0 CENTRAL                  759300
+30/05/2025 PROVISION:DE HONORARIOS 00001                            0            0 CENTRAL                  975000
+30/05/2025 PROVISION:DE HONORARIOS 00001                            0            0 CENTRAL                 4125707
+30/05/2025 PROVISION:DE HONORARIOS 00001                            0            0 CENTRAL                  261000
+30/05/2025 PROVISION:DE HONORARIOS 00001                            0            0 CENTRAL                  916000
+30/05/2025 PAGO:Abonos debito y credito Trans                17690899            0 CENTRAL                       0
+30/05/2025 TRASPASO DE CUENTA:1780098006                     18000000            0 CENTRAL                       0
+30/05/2025 DEPOSITO EN EFECTIVO                                440500      6638832 OF. LA FLORIDA                0
+30/05/2025 DEP.CHEQ.OTROS BANCOS                              1219353      3628917 PASEO LAS PALMA               0
+30/05/2025 DEPOSITO EN EFECTIVO                                276320      6638834 OF. LA FLORIDA                0
+30/05/2025 DEPOSITO EN EFECTIVO                               7168670      3628883 PASEO LAS PALMA               0
+
+************** Fin Ejecución de robot **************

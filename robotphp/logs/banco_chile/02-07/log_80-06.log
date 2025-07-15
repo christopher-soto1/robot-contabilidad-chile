@@ -1,0 +1,12 @@
+************** Ejecución de robot **************
+Clínica: Clínica Iopa
+Fecha y hora: 02-07-2025 10:01:08
+Robot: Robot Contabilidad Web-Scrapping
+Cuenta procesada (Nro. Cuenta Bancaria - últimos 4 dígitos): 80-06
+
+⚠️ No se encontró el archivo Excel para la cuenta 80-06:
+C:\xampp\htdocs\robot-contabilidad-chile\robotpy\documentos\banco_chile\02-07-2025\80-06\CartolaEmitidaFormateada.xlsx
+⚠️ No se pudo calcular la sumatoria total de ingresos: columna 'deposito_o_abono' no encontrada o no hay datos válidos.
+
+************** Fin Ejecución de robot **************
+

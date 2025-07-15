@@ -1,0 +1,23 @@
+************** Ejecución de robot **************
+Clínica: Clínica Iopa
+Fecha y hora: 02-06-2025 09:43:13
+Robot: Robot Contabilidad Web-Scrapping
+Cuenta procesada: 80-06
+
+Primer Movimiento:
+{'fecha': '30/05/2025', 'detalle_movimiento': 'TRASPASO A CUENTA:1780293305            ', 'deposito_o_abono': 0, 'docto._nro.': 0, 'sucursal': 'CENTRAL        ', 'cheque_o_cargo': 18000000}
+
+DataFrame (datos relevantes):
+     fecha                       detalle_movimiento  deposito_o_abono  docto._nro.        sucursal  cheque_o_cargo
+30/05/2025 TRASPASO A CUENTA:1780293305                             0            0 CENTRAL                18000000
+30/05/2025 PAGO:Abonos debito y credito Trans                 1601189            0 CENTRAL                       0
+30/05/2025 DEPOSITO EN EFECTIVO                                 70000      3628949 PASEO LAS PALMA               0
+30/05/2025 TRASPASO DE:Marisol Mercado Aguile                  631646            0 INTERNET                      0
+30/05/2025 PAGO:Abonos debito y credito Trans                  798750            0 CENTRAL                       0
+30/05/2025 TRASPASO DE:VILLAR GARATE SANDRA X                  189390            0 INTERNET                      0
+30/05/2025 TRASPASO DE:SOCIEDAD DE TRANSPORTE                 4485000            0 INTERNET                      0
+30/05/2025 TRASPASO DE:VARGAS CAYUPAN GISSELL                 1836993            0 INTERNET                      0
+30/05/2025 TRASPASO DE:Marcela Rocio Suarez A                  350000            0 INTERNET                      0
+30/05/2025 DEPOSITO EN EFECTIVO                                 70000      3628824 PASEO LAS PALMA               0
+
+************** Fin Ejecución de robot **************

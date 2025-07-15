@@ -1,0 +1,26 @@
+{
+    "usuarioBdChile": [
+    {
+        "usuario": "106299331",
+        "pass": "Iopa2023",
+        "url": "https://login.portalempresas.bancochile.cl/bancochile-web/empresa/login/index.html#/login"
+       
+    }
+    ],
+    "usuarioBS": [
+    {
+        "usuario": "119730716", 
+        "pass": "392iopa",
+        "url": "https://wslogin.officebanking.cl/"
+    }
+    
+    ],
+    "fonasaPrestadores": [
+    {
+        "usuario": "939150005",
+        "pass": "93915000",
+        "url": "https://nuevo.fonasa.gob.cl/prestadores/cartola-pago-prestadores"
+    }
+    
+    ]    
+}

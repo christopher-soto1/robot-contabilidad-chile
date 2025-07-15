@@ -1,0 +1,29 @@
+************** Ejecución de robot **************
+Clínica: Clínica Iopa
+Fecha y hora: 27-06-2025 09:18:43
+Robot: Robot Contabilidad Web-Scrapping
+Cuenta procesada (Nro. Cuenta Bancaria - últimos 4 dígitos): 80-06
+
+Datos encontrados:
+
+     fecha                 detalle_movimiento  deposito_o_abono  docto._nro. sucursal
+26/06/2025 TRASPASO DE:Angelis Moiselis Jimen           2847458            0 INTERNET
+26/06/2025 PAGO:Abonos debito y credito Trans           1251528            0  CENTRAL
+26/06/2025 PAGO:Abonos debito y credito Trans           2338677            0  CENTRAL
+26/06/2025 TRASPASO DE:TAPIA BRUNA KATTY ANDR            163979            0 INTERNET
+
+Total de ingresos: 6.601.642
+
+************** Fin Ejecución de robot **************
+
+
+
+************************************************
+** Información de Comprobante Softland **
+************************************************
+Fecha del registro: 27-06-2025
+Nro. Cuenta Procesada: 1-01-01-007
+Número de Comprobante: 00006284
+Monto Total de Depósito: 6.601.642
+Anticipo Cliente Insertado: Sí
+************************************************

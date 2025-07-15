@@ -1,0 +1,65 @@
+[
+    {
+        "fecha":"30\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":150770,
+        "docto._nro.":7224596,
+        "sucursal":"OF. PLAZA EGANA"
+    },
+    {
+        "fecha":"30\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":15333358,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"30\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":536000,
+        "docto._nro.":5076727,
+        "sucursal":"OF. LA FLORIDA"
+    },
+    {
+        "fecha":"30\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":559650,
+        "docto._nro.":3865233,
+        "sucursal":"OF. LA FLORIDA"
+    },
+    {
+        "fecha":"30\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":300000,
+        "docto._nro.":7224604,
+        "sucursal":"OF. PLAZA EGANA"
+    },
+    {
+        "fecha":"30\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":2052370,
+        "docto._nro.":8864797,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"30\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":128740,
+        "docto._nro.":2953224,
+        "sucursal":"OF. BUIN"
+    },
+    {
+        "fecha":"30\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":73270,
+        "docto._nro.":3870379,
+        "sucursal":"OF. LA FLORIDA"
+    },
+    {
+        "fecha":"30\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":30000,
+        "docto._nro.":7224609,
+        "sucursal":"OF. PLAZA EGANA"
+    }
+]

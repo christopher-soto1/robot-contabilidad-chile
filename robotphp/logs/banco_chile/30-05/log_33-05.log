@@ -1,0 +1,22 @@
+************** Ejecución de robot **************
+Clínica: Clínica Iopa
+Fecha y hora: 30-05-2025 16:45:02
+Robot: Robot Contabilidad Web-Scrapping
+Cuenta procesada: 33-05
+
+Primer Movimiento:
+{'fecha': '29/05/2025', 'detalle_movimiento': 'PROVISION:DE SUELDOS 00001              ', 'deposito_o_abono': 0, 'docto._nro.': 0}
+
+DataFrame (datos relevantes):
+     fecha                       detalle_movimiento  deposito_o_abono  docto._nro.
+29/05/2025 PROVISION:DE SUELDOS 00001                               0            0
+29/05/2025 DEPOSITO EN EFECTIVO                               1511550      6638830
+29/05/2025 DEPOSITO EN EFECTIVO                                215870      3628746
+29/05/2025 PAGO:Abonos debito y credito Trans                13720857            0
+29/05/2025 DEPOSITO EN EFECTIVO                                291890      3628817
+29/05/2025 DEPOSITO EN EFECTIVO                                365800      6638829
+29/05/2025 DEPOSITO EN EFECTIVO                              10457510      3628822
+29/05/2025 DEPOSITO EN EFECTIVO                                291280      3628750
+29/05/2025 DEPOSITO EN EFECTIVO                                586830      3628776
+
+************** Fin Ejecución de robot **************

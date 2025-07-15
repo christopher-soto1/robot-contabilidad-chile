@@ -1,0 +1,74 @@
+[
+    {
+        "fecha":"05\/06\/2025",
+        "detalle_movimiento":"TRASPASO A CUENTA:1780293305",
+        "deposito_o_abono":0,
+        "cheque_o_cargo":23000000,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"05\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":740274,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"05\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Rotzibell Horandy Pala",
+        "deposito_o_abono":350000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"05\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:COMERCIAL TECNOBRAVO S",
+        "deposito_o_abono":2438706,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"05\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":964583,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"05\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Evelyn Del Carmen Jime",
+        "deposito_o_abono":646610,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"05\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:SUAREZ LOPEZ ALEJANDRO",
+        "deposito_o_abono":331053,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"05\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:ACEVEDO BAEZA MARCIA D",
+        "deposito_o_abono":147000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"05\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:TRUJILLO ABARCA ROMINA",
+        "deposito_o_abono":500000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    }
+]

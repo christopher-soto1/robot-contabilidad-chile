@@ -1,0 +1,146 @@
+[
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:VALENZUELA MELENDEZ AN",
+        "deposito_o_abono":289000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Felipe Ignacio Solis V",
+        "deposito_o_abono":600000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Paola Del Carmen Herna",
+        "deposito_o_abono":250000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:GONZALEZ RUZ ORLANDO I",
+        "deposito_o_abono":300000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":1820225,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:TRUJILLO ABARCA ROMINA",
+        "deposito_o_abono":500000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:ARCE DUPUY CATHERINE M",
+        "deposito_o_abono":250000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:MERCADO AGUILERA PATRI",
+        "deposito_o_abono":58550,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:PASTEN MOLTEDO CARLA I",
+        "deposito_o_abono":517640,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":1198532,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:REYES DROGUETT DAYSE M",
+        "deposito_o_abono":2289143,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Elizabeth Rendic Olate",
+        "deposito_o_abono":1230945,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:CORDOVA FLORES SONIA D",
+        "deposito_o_abono":1500000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Jeannette Marie Gossel",
+        "deposito_o_abono":545500,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Claudia Andrea Saez Du",
+        "deposito_o_abono":617640,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:SANCHEZ GONZALEZ MARCE",
+        "deposito_o_abono":159289,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:ACEVEDO BAEZA MARCIA D",
+        "deposito_o_abono":100000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:MECANIZADOS E HIDRAULI",
+        "deposito_o_abono":676300,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    }
+]

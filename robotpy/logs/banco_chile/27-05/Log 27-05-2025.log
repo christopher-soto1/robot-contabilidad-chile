@@ -1,0 +1,23 @@
+****** Ejecución de robot ******
+Clínica: Clínica Iopa
+Fecha y hora: 27-05-2025 18:47:45
+Robot: Robot Contabilidad Web-Scrapping
+
+🧾 Primer Movimiento:
+{'Fecha': '26/05/2025', 'Detalle Movimiento': 'DEPOSITO EN EFECTIVO                    ', 'Cheque o Cargo': 0, 'Deposito o Abono': 255680, 'Saldo': '400.374.083', 'Docto. Nro.': '00006633202', 'Trn': '0000000000', 'Caja': '0000000000', 'Sucursal': 'OF. LA FLORIDA '}
+
+📊 DataFrame completo:
+     Fecha                       Detalle Movimiento  Cheque o Cargo  Deposito o Abono       Saldo Docto. Nro.        Trn       Caja        Sucursal
+26/05/2025 DEPOSITO EN EFECTIVO                                   0            255680 400.374.083 00006633202 0000000000 0000000000 OF. LA FLORIDA 
+26/05/2025 PAGO:Abonos debito y credito Trans                     0          15019804 415.393.887 00000000000 0000000000 0000000000 CENTRAL        
+26/05/2025 DEPOSITO EN EFECTIVO                                   0            109810 415.503.697 00006633201 0000000000 0000000000 OF. LA FLORIDA 
+
+📈 Sumatoria general:
+Total Abonos: 15.385.294
+Total Cargos: 0
+
+🏢 Totales por sucursal:
+Sucursal CENTRAL: Abonos = 15.019.804, Cargos = 0
+Sucursal OF. LA FLORIDA: Abonos = 365.490, Cargos = 0
+
+✅ Ejecución finalizada correctamente.

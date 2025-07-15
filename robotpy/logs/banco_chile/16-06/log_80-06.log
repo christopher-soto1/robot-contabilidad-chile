@@ -1,0 +1,25 @@
+************** Ejecución de robot **************
+Clínica: Clínica Iopa
+Fecha y hora: 16-06-2025 16:59:19
+Robot: Robot Contabilidad Web-Scrapping
+Cuenta procesada (Nro. Cuenta Bancaria - últimos 4 dígitos): 80-06
+
+Datos encontrados:
+
+     fecha                 detalle_movimiento  deposito_o_abono  docto._nro. sucursal
+11/06/2025                TRASPASO DE:VASQUEZ            676300            0 INTERNET
+11/06/2025 TRASPASO DE:ESCALONA DE LOPEZ CARM             59765            0 INTERNET
+11/06/2025 PAGO:Abonos debito y credito Trans           1067575            0  CENTRAL
+11/06/2025 TRASPASO DE:SALINAS MALO ROSA GLOR           1500000            0 INTERNET
+11/06/2025 TRASPASO DE:KATHERINE ANDREA FUENT             10000            0 INTERNET
+11/06/2025       TRASPASO DE:Enzo Cosme Aruta            194008            0 INTERNET
+11/06/2025 TRASPASO DE:Patricia Ximena Figuer            650000            0 INTERNET
+11/06/2025 TRASPASO DE:JORGE ALEJANDRO KLARIC            383558            0 INTERNET
+11/06/2025        PAGO:PROVEEDORES 0995090007           1000240            0  CENTRAL
+11/06/2025 PAGO:Abonos debito y credito Trans           1626200            0  CENTRAL
+11/06/2025 TRASPASO DE:Carolina Aguilera Carr            316984            0 INTERNET
+
+Total de ingresos: 7.484.630
+
+************** Fin Ejecución de robot **************
+

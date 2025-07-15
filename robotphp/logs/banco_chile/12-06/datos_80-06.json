@@ -1,0 +1,98 @@
+[
+    {
+        "fecha":"11\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:VASQUEZ                     ",
+        "deposito_o_abono":676300,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET       "
+    },
+    {
+        "fecha":"11\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:ESCALONA DE LOPEZ CARM      ",
+        "deposito_o_abono":59765,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET       "
+    },
+    {
+        "fecha":"11\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans      ",
+        "deposito_o_abono":1067575,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL        "
+    },
+    {
+        "fecha":"11\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:SALINAS MALO ROSA GLOR      ",
+        "deposito_o_abono":1500000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET       "
+    },
+    {
+        "fecha":"11\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:KATHERINE ANDREA FUENT      ",
+        "deposito_o_abono":10000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET       "
+    },
+    {
+        "fecha":"11\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Enzo Cosme Aruta            ",
+        "deposito_o_abono":194008,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET       "
+    },
+    {
+        "fecha":"11\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Patricia Ximena Figuer      ",
+        "deposito_o_abono":650000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET       "
+    },
+    {
+        "fecha":"11\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:JORGE ALEJANDRO KLARIC      ",
+        "deposito_o_abono":383558,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET       "
+    },
+    {
+        "fecha":"11\/06\/2025",
+        "detalle_movimiento":"PAGO:PROVEEDORES 0995090007             ",
+        "deposito_o_abono":1000240,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL        "
+    },
+    {
+        "fecha":"11\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans      ",
+        "deposito_o_abono":1626200,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL        "
+    },
+    {
+        "fecha":"11\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Carolina Aguilera Carr      ",
+        "deposito_o_abono":316984,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET       "
+    },
+    {
+        "fecha":"11\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:CHRISTOPHERSOTO ",
+        "deposito_o_abono":123123,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET       "
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "fecha":"09\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":1377569,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"09\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Jenaro Andres Orellana",
+        "deposito_o_abono":350000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"09\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Maricel Yanet Munoz Bu",
+        "deposito_o_abono":73760,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"09\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:VALENZUELA MELENDEZ AN",
+        "deposito_o_abono":81415,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"09\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":824600,
+        "cheque_o_cargo":0,
+        "docto._nro.":3628806,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"09\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:LEONCIO SEGUNDO ANDRAD",
+        "deposito_o_abono":1000000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"09\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Raquel Andrea Figueroa",
+        "deposito_o_abono":119847,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"09\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":921028,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"09\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:MARQUEZ SILVA PAULINA",
+        "deposito_o_abono":197570,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"09\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Elizabeth Rendic Olate",
+        "deposito_o_abono":1480945,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"09\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:INVERSIONES GO TRADE S",
+        "deposito_o_abono":397347,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"09\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:MORALES MORALES GERMAI",
+        "deposito_o_abono":226257,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "fecha":"06\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":461280,
+        "cheque_o_cargo":0,
+        "docto._nro.":5823468,
+        "sucursal":"OF. LA FLORIDA"
+    },
+    {
+        "fecha":"06\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":200510,
+        "cheque_o_cargo":0,
+        "docto._nro.":2953246,
+        "sucursal":"OF. BUIN"
+    },
+    {
+        "fecha":"06\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:SAAVEDRA Y PACHECO SER",
+        "deposito_o_abono":800000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"06\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":5524730,
+        "cheque_o_cargo":0,
+        "docto._nro.":3628763,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"06\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":54960,
+        "cheque_o_cargo":0,
+        "docto._nro.":3628920,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"06\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":93080,
+        "cheque_o_cargo":0,
+        "docto._nro.":2953245,
+        "sucursal":"OF. BUIN"
+    },
+    {
+        "fecha":"06\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":13981590,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"06\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":1015500,
+        "cheque_o_cargo":0,
+        "docto._nro.":5823469,
+        "sucursal":"OF. LA FLORIDA"
+    },
+    {
+        "fecha":"06\/06\/2025",
+        "detalle_movimiento":"DEP.CHEQ.OTROS BANCOS",
+        "deposito_o_abono":2100000,
+        "cheque_o_cargo":0,
+        "docto._nro.":3628884,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"06\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":477600,
+        "cheque_o_cargo":0,
+        "docto._nro.":3628759,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"06\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":138540,
+        "cheque_o_cargo":0,
+        "docto._nro.":2953243,
+        "sucursal":"OF. BUIN"
+    },
+    {
+        "fecha":"06\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:JUAN PABLO HURTADO CRU",
+        "deposito_o_abono":153516,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    }
+]

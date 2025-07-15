@@ -1,0 +1,22 @@
+************** Ejecución de robot **************
+Clínica: Clínica Iopa
+Fecha y hora: 10-06-2025 15:16:37
+Robot: Robot Contabilidad Web-Scrapping
+Cuenta procesada (últimos 4 dígitos): 33-05
+
+Datos encontrados:
+
+     fecha                 detalle_movimiento  deposito_o_abono  cheque_o_cargo  docto._nro.        sucursal
+09/06/2025               DEPOSITO EN EFECTIVO            563280               0      3628798 PASEO LAS PALMA
+09/06/2025               DEPOSITO EN EFECTIVO            149900               0      3628809 PASEO LAS PALMA
+09/06/2025               DEPOSITO EN EFECTIVO           2938640               0      3628944 PASEO LAS PALMA
+09/06/2025               DEPOSITO EN EFECTIVO                60               0      6638839  OF. LA FLORIDA
+09/06/2025               DEPOSITO EN EFECTIVO             16770               0      6638840  OF. LA FLORIDA
+09/06/2025      TRASPASO DE CUENTA:1780098006          16000000               0            0         CENTRAL
+09/06/2025 PAGO:Abonos debito y credito Trans          17122136               0            0         CENTRAL
+09/06/2025 TRASPASO DE:COMERCIAL TU CREDENCIA             32963               0            0        INTERNET
+
+Sumatoria total de ingresos: 36.823.749
+
+************** Fin Ejecución de robot **************
+

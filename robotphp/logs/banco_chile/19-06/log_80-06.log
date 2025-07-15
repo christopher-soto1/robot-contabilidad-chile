@@ -1,0 +1,43 @@
+************** Ejecución de robot **************
+Clínica: Clínica Iopa
+Fecha y hora: 19-06-2025 16:21:55
+Robot: Robot Contabilidad Web-Scrapping
+Cuenta procesada (Nro. Cuenta Bancaria - últimos 4 dígitos): 80-06
+
+Datos encontrados:
+
+     fecha                 detalle_movimiento  deposito_o_abono  docto._nro.        sucursal
+18/06/2025 PAGO:Abonos debito y credito Trans            974665            0         CENTRAL
+18/06/2025 TRASPASO DE:ESCOBAR RIVERA PATRICI           1300000            0        INTERNET
+18/06/2025 TRASPASO DE:Rafaela Laya Fernandez            367640            0        INTERNET
+18/06/2025 TRASPASO DE:Angelo Valentin Castig             10000            0        INTERNET
+18/06/2025 TRASPASO DE:Joaquin Ruben Jesus Fi            710246            0        INTERNET
+18/06/2025 TRASPASO DE:Agustin Gabriel Alvare               100            0        INTERNET
+18/06/2025 PAGO:Abonos debito y credito Trans           1592770            0         CENTRAL
+18/06/2025        PAGO:PROVEEDORES 0995090007            925133            0         CENTRAL
+18/06/2025 TRASPASO DE:JUAN ALBERTO CAMPOS HE            250000            0        INTERNET
+18/06/2025 TRASPASO DE:Nidia Ester Canales Ve            617640            0        INTERNET
+18/06/2025 TRASPASO DE:LUEIZA CANETE MARIA IS            617640            0        INTERNET
+18/06/2025 TRASPASO DE:MONICA GABRIELA WLADDI            250000            0        INTERNET
+18/06/2025               DEPOSITO EN EFECTIVO           1102000      3628977 PASEO LAS PALMA
+18/06/2025 TRASPASO DE:Joaquin Ruben Jesus Fi              1000            0        INTERNET
+18/06/2025 TRASPASO DE:LUIS EDUARD REYES GALA              1000            0        INTERNET
+18/06/2025 TRASPASO DE:Angelica Aida Romo Qui            350000            0        INTERNET
+18/06/2025 TRASPASO DE:VELASQUEZ ESCARATE ANI            250000            0        INTERNET
+18/06/2025 TRASPASO DE:LAGOS SOTO KATHERINE D             50000            0        INTERNET
+
+Total de ingresos: 9.369.834
+
+************** Fin Ejecución de robot **************
+
+
+
+************************************************
+** Información de Comprobante Softland **
+************************************************
+Fecha del registro: 19-06-2025
+Nro. Cuenta Procesada: 1-01-01-007
+Número de Comprobante: 00006083
+Monto Total de Depósito: 9.369.834
+Anticipo Cliente Insertado: Sí
+************************************************

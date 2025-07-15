@@ -1,0 +1,51 @@
+[
+    {
+        "fecha":"17\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":814767,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"17\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:MONICA ISABEL ARANDA A",
+        "deposito_o_abono":676418,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"17\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:ESCOBAR RIVERA PATRICI",
+        "deposito_o_abono":43383,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"17\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:OROSTICA URREA SOLANGE",
+        "deposito_o_abono":726897,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"17\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:ALVARO MAURICIO RODRIG",
+        "deposito_o_abono":973460,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"17\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":1814032,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"17\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:TORO DIAZ CARLOS RENE",
+        "deposito_o_abono":581945,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    }
+]

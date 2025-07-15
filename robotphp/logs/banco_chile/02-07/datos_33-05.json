@@ -1,0 +1,72 @@
+[
+    {
+        "fecha":"01\/07\/2025",
+        "detalle_movimiento":"TRASPASO DE CUENTA:1780098006",
+        "deposito_o_abono":15000000,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"01\/07\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":2378960,
+        "docto._nro.":8864798,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"01\/07\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":292340,
+        "docto._nro.":5823491,
+        "sucursal":"OF. LA FLORIDA"
+    },
+    {
+        "fecha":"01\/07\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":1208170,
+        "docto._nro.":8864775,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"01\/07\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":15359168,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"01\/07\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":240930,
+        "docto._nro.":2953260,
+        "sucursal":"OF. BUIN"
+    },
+    {
+        "fecha":"01\/07\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":108710,
+        "docto._nro.":4831181,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"01\/07\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":337000,
+        "docto._nro.":5823492,
+        "sucursal":"OF. LA FLORIDA"
+    },
+    {
+        "fecha":"01\/07\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":359030,
+        "docto._nro.":8864774,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"01\/07\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":19020,
+        "docto._nro.":4831178,
+        "sucursal":"PASEO LAS PALMA"
+    }
+]

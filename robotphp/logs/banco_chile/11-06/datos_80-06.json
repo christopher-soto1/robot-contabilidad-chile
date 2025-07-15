@@ -1,0 +1,130 @@
+[
+    {
+        "fecha":"10\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:MICHAEL ANDREW PATRICK",
+        "deposito_o_abono":250000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"10\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:PILAR ANDREA ARAYA CUM",
+        "deposito_o_abono":250000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"10\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":1505980,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"10\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:SALINAS MALO ROSA GLOR",
+        "deposito_o_abono":250000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"10\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Patricia Ximena Figuer",
+        "deposito_o_abono":350000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"10\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:BLANCA EUGENIA CROXATT",
+        "deposito_o_abono":250000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"10\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Michael Andrew Patrick",
+        "deposito_o_abono":176300,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"10\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Pilar Andrea Araya Cum",
+        "deposito_o_abono":350000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"10\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:LUEIZA CANETE MARIA IS",
+        "deposito_o_abono":308820,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"10\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":712829,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"10\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:LUEIZA CANETE MARIA IS",
+        "deposito_o_abono":308820,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"10\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:CASTILLO SALGADO NICOL",
+        "deposito_o_abono":100000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"10\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:JORGE ALEJANDRO KLARIC",
+        "deposito_o_abono":10000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"10\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Katherine Margarita Po",
+        "deposito_o_abono":350000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"10\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":70000,
+        "cheque_o_cargo":0,
+        "docto._nro.":3628945,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"10\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Jenaro Andres Orellana",
+        "deposito_o_abono":2650000,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    }
+]

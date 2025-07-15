@@ -1,0 +1,65 @@
+[
+    {
+        "fecha":"19\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":400870,
+        "docto._nro.":6631935,
+        "sucursal":"OF. LA FLORIDA"
+    },
+    {
+        "fecha":"19\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":132300,
+        "docto._nro.":2953232,
+        "sucursal":"OF. BUIN"
+    },
+    {
+        "fecha":"19\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":151110,
+        "docto._nro.":3628801,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"19\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":13846140,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"19\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:COBIAN MEDICAL SPA",
+        "deposito_o_abono":2594200,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"19\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":157140,
+        "docto._nro.":3628913,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"19\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":653340,
+        "docto._nro.":3628954,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"19\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE CUENTA:1780098006",
+        "deposito_o_abono":17000000,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"19\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":742810,
+        "docto._nro.":3628987,
+        "sucursal":"PASEO LAS PALMA"
+    }
+]

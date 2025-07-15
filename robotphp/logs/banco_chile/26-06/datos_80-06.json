@@ -1,0 +1,79 @@
+[
+    {
+        "fecha":"25\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":2063521,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"25\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:JOSE OSVALDO FIGUEROA",
+        "deposito_o_abono":1220100,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"25\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":2274654,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"25\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":339000,
+        "docto._nro.":3628796,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"25\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:DIAZ VENEGAS CONSTANZA",
+        "deposito_o_abono":100000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"25\/06\/2025",
+        "detalle_movimiento":"PAGO:PROVEEDORES 0995090007",
+        "deposito_o_abono":992266,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"25\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:MORENO CACERES JOSE GU",
+        "deposito_o_abono":1000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"25\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Jaime Ramon Lopez Viva",
+        "deposito_o_abono":788343,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"25\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:SILVIA INES ESPINA URE",
+        "deposito_o_abono":600000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"25\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":1101000,
+        "docto._nro.":3628827,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"25\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Juana Nelly Olivares L",
+        "deposito_o_abono":10000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    }
+]

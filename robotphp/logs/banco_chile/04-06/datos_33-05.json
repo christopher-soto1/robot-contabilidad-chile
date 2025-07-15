@@ -1,0 +1,114 @@
+[
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":748740,
+        "cheque_o_cargo":0,
+        "docto._nro.":3628733,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":52000,
+        "cheque_o_cargo":0,
+        "docto._nro.":2953242,
+        "sucursal":"OF. BUIN"
+    },
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"TRANSFERENCIA DE OTRO BANCO VIA SP",
+        "deposito_o_abono":80007922,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":6531170,
+        "cheque_o_cargo":0,
+        "docto._nro.":3628952,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":591170,
+        "cheque_o_cargo":0,
+        "docto._nro.":6638837,
+        "sucursal":"OF. LA FLORIDA"
+    },
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":118000,
+        "cheque_o_cargo":0,
+        "docto._nro.":2953244,
+        "sucursal":"OF. BUIN"
+    },
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":543910,
+        "cheque_o_cargo":0,
+        "docto._nro.":3628810,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":197550,
+        "cheque_o_cargo":0,
+        "docto._nro.":2953239,
+        "sucursal":"OF. BUIN"
+    },
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":238900,
+        "cheque_o_cargo":0,
+        "docto._nro.":3628986,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":302890,
+        "cheque_o_cargo":0,
+        "docto._nro.":2953240,
+        "sucursal":"OF. BUIN"
+    },
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":74000,
+        "cheque_o_cargo":0,
+        "docto._nro.":3628823,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":200930,
+        "cheque_o_cargo":0,
+        "docto._nro.":2953241,
+        "sucursal":"OF. BUIN"
+    },
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":17718832,
+        "cheque_o_cargo":0,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"03\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":870000,
+        "cheque_o_cargo":0,
+        "docto._nro.":6638838,
+        "sucursal":"OF. LA FLORIDA"
+    }
+]

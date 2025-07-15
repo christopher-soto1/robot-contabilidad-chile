@@ -1,0 +1,21 @@
+************** Ejecución de robot **************
+Clínica: Clínica Iopa
+Fecha y hora: 13-06-2025 16:11:42
+Robot: Robot Contabilidad Web-Scrapping
+Cuenta procesada (Nro. Cuenta Bancaria - últimos 4 dígitos): 33-05
+
+Datos encontrados:
+
+     fecha                 detalle_movimiento  deposito_o_abono  docto._nro.        sucursal
+11/06/2025               DEPOSITO EN EFECTIVO            362000      5823472  OF. LA FLORIDA
+11/06/2025 PAGO:Abonos debito y credito Trans          25215689            0         CENTRAL
+11/06/2025               DEPOSITO EN EFECTIVO            146380      3628998 OF. NUEVA PROVI
+11/06/2025      TRASPASO DE CUENTA:1780098006          15000000            0         CENTRAL
+11/06/2025               DEPOSITO EN EFECTIVO            695900      3628968 OF. NUEVA PROVI
+11/06/2025               DEPOSITO EN EFECTIVO            525910      5823473  OF. LA FLORIDA
+11/06/2025               DEPOSITO EN EFECTIVO           2910740      3628916 OF. NUEVA PROVI
+
+Total de ingresos: 44.856.619
+
+************** Fin Ejecución de robot **************
+

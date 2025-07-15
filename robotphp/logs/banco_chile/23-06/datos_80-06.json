@@ -1,0 +1,93 @@
+[
+    {
+        "fecha":"19\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Agustin Gabriel Alvare",
+        "deposito_o_abono":1299143,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"19\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Nicole Elizabeth Silva",
+        "deposito_o_abono":1,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"19\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":1441414,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"19\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Angelo Valentin Castig",
+        "deposito_o_abono":230400,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"19\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Joaquin Ruben Jesus Fi",
+        "deposito_o_abono":9000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"19\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:PENTZ VASQUEZ RODOLFO",
+        "deposito_o_abono":282799,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"19\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:MONICA GABRIELA WLADDI",
+        "deposito_o_abono":283232,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"19\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:ALVAREZ TERRAZA MARIAN",
+        "deposito_o_abono":10000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"19\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":1172240,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"19\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:PATRICIO ANTONIO FUENT",
+        "deposito_o_abono":300000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"19\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Angelica Aida Romo Qui",
+        "deposito_o_abono":114591,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"19\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:ESCALONA DE LOPEZ CARM",
+        "deposito_o_abono":1000000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"19\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:VELASQUEZ ESCARATE ANI",
+        "deposito_o_abono":2584234,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    }
+]

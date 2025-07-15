@@ -1,0 +1,37 @@
+[
+    {
+        "fecha":"25\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":890970,
+        "docto._nro.":8864813,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"25\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":314560,
+        "docto._nro.":2953220,
+        "sucursal":"OF. BUIN"
+    },
+    {
+        "fecha":"25\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":26420,
+        "docto._nro.":4831180,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"25\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":8403530,
+        "docto._nro.":8864844,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"25\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":23210244,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    }
+]

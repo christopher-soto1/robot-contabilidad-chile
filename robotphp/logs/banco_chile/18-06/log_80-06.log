@@ -1,0 +1,32 @@
+************** Ejecución de robot **************
+Clínica: Clínica Iopa
+Fecha y hora: 18-06-2025 10:16:16
+Robot: Robot Contabilidad Web-Scrapping
+Cuenta procesada (Nro. Cuenta Bancaria - últimos 4 dígitos): 80-06
+
+Datos encontrados:
+
+     fecha                 detalle_movimiento  deposito_o_abono  docto._nro. sucursal
+17/06/2025 PAGO:Abonos debito y credito Trans            814767            0  CENTRAL
+17/06/2025 TRASPASO DE:MONICA ISABEL ARANDA A            676418            0 INTERNET
+17/06/2025 TRASPASO DE:ESCOBAR RIVERA PATRICI             43383            0 INTERNET
+17/06/2025 TRASPASO DE:OROSTICA URREA SOLANGE            726897            0 INTERNET
+17/06/2025 TRASPASO DE:ALVARO MAURICIO RODRIG            973460            0 INTERNET
+17/06/2025 PAGO:Abonos debito y credito Trans           1814032            0  CENTRAL
+17/06/2025  TRASPASO DE:TORO DIAZ CARLOS RENE            581945            0 INTERNET
+
+Total de ingresos: 5.630.902
+
+************** Fin Ejecución de robot **************
+
+
+
+************************************************
+** Información de Comprobante Softland **
+************************************************
+Fecha del registro: 18-06-2025
+Nro. Cuenta Procesada: 1-01-01-007
+Número de Comprobante: 00006081
+Monto Total de Depósito: 5.630.902
+Anticipo Cliente Insertado: Sí
+************************************************

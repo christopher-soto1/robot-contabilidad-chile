@@ -1,0 +1,21 @@
+************** Ejecución de robot **************
+Clínica: Clínica Iopa
+Fecha y hora: 06-06-2025 08:40:36
+Robot: Robot Contabilidad Web-Scrapping
+Cuenta procesada (últimos 4 dígitos): 80-06
+
+Datos encontrados:
+
+     fecha                 detalle_movimiento  deposito_o_abono  cheque_o_cargo  docto._nro. sucursal
+05/06/2025       TRASPASO A CUENTA:1780293305                 0        23000000            0  CENTRAL
+05/06/2025 PAGO:Abonos debito y credito Trans            740274               0            0  CENTRAL
+05/06/2025 TRASPASO DE:Rotzibell Horandy Pala            350000               0            0 INTERNET
+05/06/2025 TRASPASO DE:COMERCIAL TECNOBRAVO S           2438706               0            0 INTERNET
+05/06/2025 PAGO:Abonos debito y credito Trans            964583               0            0  CENTRAL
+05/06/2025 TRASPASO DE:Evelyn Del Carmen Jime            646610               0            0 INTERNET
+05/06/2025 TRASPASO DE:SUAREZ LOPEZ ALEJANDRO            331053               0            0 INTERNET
+05/06/2025 TRASPASO DE:ACEVEDO BAEZA MARCIA D            147000               0            0 INTERNET
+05/06/2025 TRASPASO DE:TRUJILLO ABARCA ROMINA            500000               0            0 INTERNET
+
+************** Fin Ejecución de robot **************
+

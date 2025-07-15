@@ -1,0 +1,30 @@
+************** Ejecución de robot **************
+Clínica: Clínica Iopa
+Fecha y hora: 11-06-2025 17:10:00
+Robot: Robot Contabilidad Web-Scrapping
+Cuenta procesada (últimos 4 dígitos): 80-06
+
+Datos encontrados:
+
+     fecha                 detalle_movimiento  deposito_o_abono  cheque_o_cargo  docto._nro.        sucursal
+10/06/2025 TRASPASO DE:MICHAEL ANDREW PATRICK            250000               0            0        INTERNET
+10/06/2025 TRASPASO DE:PILAR ANDREA ARAYA CUM            250000               0            0        INTERNET
+10/06/2025 PAGO:Abonos debito y credito Trans           1505980               0            0         CENTRAL
+10/06/2025 TRASPASO DE:SALINAS MALO ROSA GLOR            250000               0            0        INTERNET
+10/06/2025 TRASPASO DE:Patricia Ximena Figuer            350000               0            0        INTERNET
+10/06/2025 TRASPASO DE:BLANCA EUGENIA CROXATT            250000               0            0        INTERNET
+10/06/2025 TRASPASO DE:Michael Andrew Patrick            176300               0            0        INTERNET
+10/06/2025 TRASPASO DE:Pilar Andrea Araya Cum            350000               0            0        INTERNET
+10/06/2025 TRASPASO DE:LUEIZA CANETE MARIA IS            308820               0            0        INTERNET
+10/06/2025 PAGO:Abonos debito y credito Trans            712829               0            0         CENTRAL
+10/06/2025 TRASPASO DE:LUEIZA CANETE MARIA IS            308820               0            0        INTERNET
+10/06/2025 TRASPASO DE:CASTILLO SALGADO NICOL            100000               0            0        INTERNET
+10/06/2025 TRASPASO DE:JORGE ALEJANDRO KLARIC             10000               0            0        INTERNET
+10/06/2025 TRASPASO DE:Katherine Margarita Po            350000               0            0        INTERNET
+10/06/2025               DEPOSITO EN EFECTIVO             70000               0      3628945 PASEO LAS PALMA
+10/06/2025 TRASPASO DE:Jenaro Andres Orellana           2650000               0            0        INTERNET
+
+Sumatoria total de ingresos: 7.892.749
+
+************** Fin Ejecución de robot **************
+

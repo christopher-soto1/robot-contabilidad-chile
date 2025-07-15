@@ -1,0 +1,128 @@
+[
+    {
+        "fecha":"18\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":974665,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"18\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:ESCOBAR RIVERA PATRICI",
+        "deposito_o_abono":1300000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"18\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Rafaela Laya Fernandez",
+        "deposito_o_abono":367640,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"18\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Angelo Valentin Castig",
+        "deposito_o_abono":10000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"18\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Joaquin Ruben Jesus Fi",
+        "deposito_o_abono":710246,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"18\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Agustin Gabriel Alvare",
+        "deposito_o_abono":100,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"18\/06\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":1592770,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"18\/06\/2025",
+        "detalle_movimiento":"PAGO:PROVEEDORES 0995090007",
+        "deposito_o_abono":925133,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"18\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:JUAN ALBERTO CAMPOS HE",
+        "deposito_o_abono":250000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"18\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Nidia Ester Canales Ve",
+        "deposito_o_abono":617640,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"18\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:LUEIZA CANETE MARIA IS",
+        "deposito_o_abono":617640,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"18\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:MONICA GABRIELA WLADDI",
+        "deposito_o_abono":250000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"18\/06\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":1102000,
+        "docto._nro.":3628977,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"18\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Joaquin Ruben Jesus Fi",
+        "deposito_o_abono":1000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"18\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:LUIS EDUARD REYES GALA",
+        "deposito_o_abono":1000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"18\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:Angelica Aida Romo Qui",
+        "deposito_o_abono":350000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"18\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:VELASQUEZ ESCARATE ANI",
+        "deposito_o_abono":250000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"18\/06\/2025",
+        "detalle_movimiento":"TRASPASO DE:LAGOS SOTO KATHERINE D",
+        "deposito_o_abono":50000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    }
+]

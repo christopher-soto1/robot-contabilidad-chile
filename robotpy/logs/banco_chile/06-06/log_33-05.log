@@ -1,0 +1,27 @@
+************** Ejecución de robot **************
+Clínica: Clínica Iopa
+Fecha y hora: 06-06-2025 08:40:36
+Robot: Robot Contabilidad Web-Scrapping
+Cuenta procesada (últimos 4 dígitos): 33-05
+
+Datos encontrados:
+
+     fecha                 detalle_movimiento  deposito_o_abono  cheque_o_cargo  docto._nro.        sucursal
+05/06/2025         COMISION SERVICIO DE PAGOS                 0           97928            0         CENTRAL
+05/06/2025         COMISION SERVICIO DE PAGOS                 0            2238            0         CENTRAL
+05/06/2025        PROVISION:PROVEEDORES 00001                 0        68430574            0         CENTRAL
+05/06/2025             PAC VERISURE CHILE SPA                 0           51302            0         CENTRAL
+05/06/2025               DEPOSITO EN EFECTIVO            583750               0      6638849  OF. LA FLORIDA
+05/06/2025 TRASPASO DE:Gemita del Carmen Gome             51050               0            0        INTERNET
+05/06/2025 TRASPASO DE:DELEGACION PRESIDENCIA            150000               0            0        INTERNET
+05/06/2025               DEPOSITO EN EFECTIVO            540000               0      3628994 PASEO LAS PALMA
+05/06/2025      TRASPASO DE CUENTA:1780098006          23000000               0            0         CENTRAL
+05/06/2025               DEPOSITO EN EFECTIVO            683000               0      6638848  OF. LA FLORIDA
+05/06/2025              DEP.CHEQ.OTROS BANCOS           1500000               0      3628928 PASEO LAS PALMA
+05/06/2025               DEPOSITO EN EFECTIVO           6562040               0      3628778 PASEO LAS PALMA
+05/06/2025 PAGO:Abonos debito y credito Trans          15269673               0            0         CENTRAL
+05/06/2025 TRANSFERENCIA DE OTRO BANCO VIA SP         120076084               0            0         CENTRAL
+05/06/2025               DEPOSITO EN EFECTIVO            166000               0      6638850  OF. LA FLORIDA
+
+************** Fin Ejecución de robot **************
+
