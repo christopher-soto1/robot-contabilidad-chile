@@ -1,0 +1,34 @@
+************** Ejecución de robot **************
+Clínica: Clínica Iopa
+Fecha y hora: 18-07-2025 10:26:12
+Robot: Robot Contabilidad Web-Scrapping
+Cuenta procesada (Nro. Cuenta Bancaria - últimos 4 dígitos): 33-05
+
+Datos encontrados:
+
+     fecha                 detalle_movimiento  deposito_o_abono  docto._nro.        sucursal
+17/07/2025               DEPOSITO EN EFECTIVO            354790      3351360  OF. LA FLORIDA
+17/07/2025               DEPOSITO EN EFECTIVO            547100      2953217        OF. BUIN
+17/07/2025               DEPOSITO EN EFECTIVO           1935280      8864786 PASEO LAS PALMA
+17/07/2025               DEPOSITO EN EFECTIVO            436020      8864776 PASEO LAS PALMA
+17/07/2025      TRASPASO DE CUENTA:1780098006          20000000            0         CENTRAL
+17/07/2025               DEPOSITO EN EFECTIVO             13230      8864803 PASEO LAS PALMA
+17/07/2025 PAGO:Abonos debito y credito Trans          22199155            0         CENTRAL
+17/07/2025               DEPOSITO EN EFECTIVO               500      3351351  OF. LA FLORIDA
+17/07/2025 TRASPASO DE:MAURICIO ANTONIO FARIA             40290            0        INTERNET
+
+Total de ingresos: 45.526.365
+
+************** Fin Ejecución de robot **************
+
+
+
+************************************************
+** Información de Comprobante Softland **
+************************************************
+Fecha del registro: 18-07-2025
+Nro. Cuenta Procesada: 1-01-01-003
+Número de Comprobante: 00006182
+Monto Total de Depósito: 25.526.365
+Anticipo Cliente Insertado: Sí
+************************************************

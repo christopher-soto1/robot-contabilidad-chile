@@ -1,0 +1,34 @@
+************** Ejecución de robot **************
+Clínica: Clínica Iopa
+Fecha y hora: 18-07-2025 10:26:12
+Robot: Robot Contabilidad Web-Scrapping
+Cuenta procesada (Nro. Cuenta Bancaria - últimos 4 dígitos): 80-06
+
+Datos encontrados:
+
+     fecha                 detalle_movimiento  deposito_o_abono  docto._nro. sucursal
+17/07/2025 TRASPASO DE:MARIA FERNANDEZ MARTIN            300000            0 INTERNET
+17/07/2025 TRASPASO DE:Jose Antonio Fernandez            111151            0 INTERNET
+17/07/2025 TRASPASO DE:KATHERINE VIVIANA ANDR              4000            0 INTERNET
+17/07/2025 TRASPASO DE:Jose Alejandro Sanchez            335201            0 INTERNET
+17/07/2025 PAGO:Abonos debito y credito Trans           2899103            0  CENTRAL
+17/07/2025 PAGO:Abonos debito y credito Trans           1655234            0  CENTRAL
+17/07/2025        PAGO:PROVEEDORES 0995090007           1172751            0  CENTRAL
+17/07/2025 TRASPASO DE:Paola Loreto Munoz Gon            350000            0 INTERNET
+17/07/2025 TRASPASO DE:MARIA FERNANDEZ MARTIN            226300            0 INTERNET
+
+Total de ingresos: 7.053.740
+
+************** Fin Ejecución de robot **************
+
+
+
+************************************************
+** Información de Comprobante Softland **
+************************************************
+Fecha del registro: 18-07-2025
+Nro. Cuenta Procesada: 1-01-01-007
+Número de Comprobante: 00006183
+Monto Total de Depósito: 7.053.740
+Anticipo Cliente Insertado: Sí
+************************************************

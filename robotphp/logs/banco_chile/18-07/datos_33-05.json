@@ -1,0 +1,65 @@
+[
+    {
+        "fecha":"17\/07\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":354790,
+        "docto._nro.":3351360,
+        "sucursal":"OF. LA FLORIDA"
+    },
+    {
+        "fecha":"17\/07\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":547100,
+        "docto._nro.":2953217,
+        "sucursal":"OF. BUIN"
+    },
+    {
+        "fecha":"17\/07\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":1935280,
+        "docto._nro.":8864786,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"17\/07\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":436020,
+        "docto._nro.":8864776,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"17\/07\/2025",
+        "detalle_movimiento":"TRASPASO DE CUENTA:1780098006",
+        "deposito_o_abono":20000000,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"17\/07\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":13230,
+        "docto._nro.":8864803,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"17\/07\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":22199155,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"17\/07\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":500,
+        "docto._nro.":3351351,
+        "sucursal":"OF. LA FLORIDA"
+    },
+    {
+        "fecha":"17\/07\/2025",
+        "detalle_movimiento":"TRASPASO DE:MAURICIO ANTONIO FARIA",
+        "deposito_o_abono":40290,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    }
+]

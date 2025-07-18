@@ -1,0 +1,4 @@
+El robot no se ejecutó porque es fin de semana.
+Fecha: 19/07/2025
+Día: sábado
+Este robot solo se ejecuta de lunes a viernes en días hábiles.

@@ -1,0 +1,65 @@
+[
+    {
+        "fecha":"17\/07\/2025",
+        "detalle_movimiento":"TRASPASO DE:MARIA FERNANDEZ MARTIN",
+        "deposito_o_abono":300000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"17\/07\/2025",
+        "detalle_movimiento":"TRASPASO DE:Jose Antonio Fernandez",
+        "deposito_o_abono":111151,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"17\/07\/2025",
+        "detalle_movimiento":"TRASPASO DE:KATHERINE VIVIANA ANDR",
+        "deposito_o_abono":4000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"17\/07\/2025",
+        "detalle_movimiento":"TRASPASO DE:Jose Alejandro Sanchez",
+        "deposito_o_abono":335201,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"17\/07\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":2899103,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"17\/07\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":1655234,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"17\/07\/2025",
+        "detalle_movimiento":"PAGO:PROVEEDORES 0995090007",
+        "deposito_o_abono":1172751,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"17\/07\/2025",
+        "detalle_movimiento":"TRASPASO DE:Paola Loreto Munoz Gon",
+        "deposito_o_abono":350000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"17\/07\/2025",
+        "detalle_movimiento":"TRASPASO DE:MARIA FERNANDEZ MARTIN",
+        "deposito_o_abono":226300,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    }
+]

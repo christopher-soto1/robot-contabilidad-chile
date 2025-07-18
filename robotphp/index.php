@@ -185,93 +185,119 @@ function enviarCorreo()
 
 function main()
 {
+    // -------------------- VALIDACION DE DIAS HABILES Y FINES DE SEMANA --------------------
+    date_default_timezone_set('America/Santiago'); // Zona horaria CL
 
+    // ⚙️ Simular una fecha específica (para debug). Descomenta para testear:
+    // $debugFecha = '2025-07-19'; // sábado
+    // $debugFecha = '2025-07-16'; // feriado miércoles
+    // $debugFecha = '2025-07-17'; // jueves normal
+
+    $timestamp = isset($debugFecha)
+        ? strtotime($debugFecha)
+        : time();
+
+    $fechaHoy = date('d/m/Y', $timestamp);           // Para comparación con feriados
+    $fechaNombreArchivo = date('d_m_Y', $timestamp); // Para nombre del archivo
+    $diaSemana = (int)date('N', $timestamp);         // 1 (lunes) a 7 (domingo)
+    $diasEsp = ["lunes", "martes", "miércoles", "jueves", "viernes", "sábado", "domingo"];
+    $nombreDia = $diasEsp[$diaSemana - 1];
+
+    // Lista de feriados Chile
+    $feriados_chile = [
+        '01/01/2025', '18/04/2025', '19/04/2025', '01/05/2025',
+        '21/05/2025', '20/06/2025', '29/06/2025', '16/07/2025',
+        '15/08/2025', '18/09/2025', '19/09/2025', '12/10/2025',
+        '31/10/2025', '01/11/2025', '08/12/2025', '25/12/2025',
+    ];
+
+    $esFinde = ($diaSemana >= 6);
+    $esFeriado = in_array($fechaHoy, $feriados_chile);
+
+    if ($esFinde || $esFeriado) {
+        $motivo = $esFinde ? "fin de semana" : "día feriado";
+        $rutaLogFeriado = "C:\\xampp\\htdocs\\robot-contabilidad-chile\\robotphp\\logs\\dias_feriados\\log_{$fechaNombreArchivo}.txt";
+
+        $contenidoLog = "El robot no se ejecutó porque es {$motivo}.\n";
+        $contenidoLog .= "Fecha: {$fechaHoy}\n";
+        $contenidoLog .= "Día: {$nombreDia}\n";
+        $contenidoLog .= "Este robot solo se ejecuta de lunes a viernes en días hábiles.";
+
+        file_put_contents($rutaLogFeriado, $contenidoLog);
+
+        echo "⏹️ El proceso no se ejecuta porque hoy es {$motivo} ({$nombreDia}).\n";
+        error_log("main.php: Ejecución detenida. Hoy es {$nombreDia} ({$fechaHoy}). Se creó log en {$rutaLogFeriado}.");
+        return;
+    }
+
+
+    // -------------------- INICIO DEL CODIGO --------------------
     set_time_limit(500); // aumenta el límite a 5 minutos (300 segundos)
     $fechaRuta = date("d-m");
-    $cuentas = ["33-05", "80-06"]; // Cuentas usadas para leer los JSON y generar los logs iniciales
+    $cuentas = ["33-05", "80-06"];
     $dataPorCuenta = [];
 
-    # ---------------------- ESTAS LINEAS EJECUTAN EL ARCHIVO DE PYTHON ----------------------
-
+    # ---------------------- Ejecutar script Python ----------------------
     $python = 'C:\Users\programadorll\AppData\Local\Programs\Python\Python312\python.exe';
-    #$script = 'C:\Users\programadorll\Desktop\robotpy\test.py'; #Ruta antigua antes de unificacion
     $script = 'C:\xampp\htdocs\robot-contabilidad-chile\robotpy\test.py';
     $output = shell_exec("\"$python\" \"$script\" 2>&1");
     echo "<pre>$output</pre>";
     
-    # ---------------------- ESTAS LINEAS EJECUTAN EL ARCHIVO DE PYTHON ----------------------
-
-    // Asumimos que esta carpeta y los archivos log_*.log iniciales ya existen.
+    # ---------------------- Leer JSONs generados ----------------------
     $destinoWebLogsPhp = "C:\\xampp\\htdocs\\robot-contabilidad-chile\\robotphp\\logs\\banco_chile\\{$fechaRuta}";
 
-    // Mapeo de la 'cuenta' devuelta por la API PHP (ej. '1-01-01-003')
-    // al sufijo del nombre del archivo de log deseado (ej. '33-05')
     $accountLogFilenameMap = [
-        "1-01-01-003" => "33-05", // La API devuelve este ID, adjuntamos al log_33-05.log
-        "1-01-01-007" => "80-06",  // La API devuelve este ID, adjuntamos al log_80-06.log
-        // Añade aquí otros mapeos si tu API devuelve diferentes IDs de cuenta
+        "1-01-01-003" => "33-05",
+        "1-01-01-007" => "80-06",
     ];
 
     foreach ($cuentas as $cuenta) {
         $transacciones = logAJson($cuenta, $fechaRuta);
         if (!empty($transacciones)) {
-            // Asegúrate de que la estructura de $dataPorCuenta es la que la API espera
-            // (ej. '33-05' => [transacciones], '80-06' => [transacciones])
             $dataPorCuenta[$cuenta] = $transacciones;
         }
     }
 
-    // Llama a la API PHP Slim
     $apiRespuesta = llamarApi("registrar_deposito", "POST", $dataPorCuenta);
-    /* echo "<pre>";
-    var_dump($apiRespuesta);
-    echo "</pre>"; */
 
-    // --- INICIO DE LA LÓGICA PARA ADJUNTAR LA RESPUESTA DE LA API AL LOG ---
+    // --- Agregar info al log por cuenta ---
     if ($apiRespuesta && isset($apiRespuesta['banco_de_chile']) && is_array($apiRespuesta['banco_de_chile'])) {
         foreach ($apiRespuesta['banco_de_chile'] as $accountEntry) {
-            $apiCuentaId = $accountEntry['cuenta'] ?? null; // ID de cuenta de la respuesta de la API (ej. '1-01-01-003')
+            $apiCuentaId = $accountEntry['cuenta'] ?? null;
 
             if ($apiCuentaId && isset($accountLogFilenameMap[$apiCuentaId])) {
-                $logFilenameSuffix = $accountLogFilenameMap[$apiCuentaId]; // Obtener el sufijo del nombre del log (ej. '33-05')
-                $rutaLogCuenta = "{$destinoWebLogsPhp}\\log_{$logFilenameSuffix}.log"; // Ruta completa al archivo de log
+                $logFilenameSuffix = $accountLogFilenameMap[$apiCuentaId];
+                $rutaLogCuenta = "{$destinoWebLogsPhp}\\log_{$logFilenameSuffix}.log";
 
-                $logContentAppend = "\n\n"; // Añadir saltos de línea para separar del contenido anterior
+                $logContentAppend = "\n\n";
                 $logContentAppend .= "************************************************\n";
                 $logContentAppend .= "** Información de Comprobante Softland **\n";
                 $logContentAppend .= "************************************************\n";
                 $logContentAppend .= "Fecha del registro: " . (new DateTime())->format('d-m-Y') . "\n";
                 $logContentAppend .= "Nro. Cuenta Procesada: {$accountEntry['cuenta']}\n";
                 $logContentAppend .= "Número de Comprobante: {$accountEntry['numero_comprobante']}\n";
-
-                // Formatear el monto total con punto como separador de miles
                 $montoFormateado = number_format($accountEntry['monto_total_deposito'], 0, ',', '.');
                 $logContentAppend .= "Monto Total de Depósito: {$montoFormateado}\n";
 
-                // Verificar si el campo 'insertado_anticipo_cliente' existe
                 if (isset($accountEntry['insertado_anticipo_cliente'])) {
                     $anticipoStatus = $accountEntry['insertado_anticipo_cliente'] ? 'Sí' : 'No';
                     $logContentAppend .= "Anticipo Cliente Insertado: {$anticipoStatus}\n";
                 }
                 $logContentAppend .= "************************************************\n";
 
-                
-
                 try {
-                    // Abrir el archivo en modo 'a' (append) para añadir contenido
                     file_put_contents($rutaLogCuenta, $logContentAppend, FILE_APPEND);
-                    error_log("main.php: Información de API para cuenta {$apiCuentaId} añadida a log en {$rutaLogCuenta}");
+                    error_log("main.php: Info API añadida a log de cuenta {$apiCuentaId} ({$rutaLogCuenta})");
                 } catch (Exception $e) {
-                    error_log("main.php: Error al añadir información de API al log para {$apiCuentaId} ({$rutaLogCuenta}): " . $e->getMessage());
+                    error_log("main.php: Error al escribir log para cuenta {$apiCuentaId}: " . $e->getMessage());
                 }
             } else {
-                error_log("main.php: No se encontró mapeo para la cuenta API '{$apiCuentaId}'. No se adjuntará información al log.");
+                error_log("main.php: Cuenta API '{$apiCuentaId}' sin mapeo en \$accountLogFilenameMap.");
             }
         }
     } else {
-        echo("main.php: No se recibieron datos válidos de 'banco_de_chile' de la API PHP.");
+        echo("main.php: No se recibieron datos válidos de 'banco_de_chile' de la API.");
     }
-    // --- FIN DE LA LÓGICA PARA ADJUNTAR LA RESPUESTA DE LA API AL LOG ---
 
     $correoRespuesta = enviarCorreo();
 
@@ -286,5 +312,6 @@ function main()
 }
 
 main();
+
 //enviarCorreo();
 ?>
