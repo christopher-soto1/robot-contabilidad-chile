@@ -1,0 +1,93 @@
+[
+    {
+        "fecha":"18\/07\/2025",
+        "detalle_movimiento":"TRASPASO DE:Pilar Andrea Araya Cum",
+        "deposito_o_abono":676300,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"18\/07\/2025",
+        "detalle_movimiento":"TRASPASO DE:Barbara Jesus Moscoso",
+        "deposito_o_abono":61083,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"18\/07\/2025",
+        "detalle_movimiento":"TRASPASO DE:KATHERINE VIVIANA ANDR",
+        "deposito_o_abono":780910,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"18\/07\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":676300,
+        "docto._nro.":6628417,
+        "sucursal":"OF. LA FLORIDA"
+    },
+    {
+        "fecha":"18\/07\/2025",
+        "detalle_movimiento":"TRASPASO DE:Viterbo Servando Verga",
+        "deposito_o_abono":2000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"18\/07\/2025",
+        "detalle_movimiento":"TRASPASO DE:VITERBO SERVANDO VERGA",
+        "deposito_o_abono":2000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"18\/07\/2025",
+        "detalle_movimiento":"TRASPASO DE:Barbara Jesus Moscoso",
+        "deposito_o_abono":350000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"18\/07\/2025",
+        "detalle_movimiento":"TRASPASO DE:VITERBO SERVANDO VERGA",
+        "deposito_o_abono":264887,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"18\/07\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":1004096,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"18\/07\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":2572036,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"18\/07\/2025",
+        "detalle_movimiento":"TRASPASO DE:KATHERINE VIVIANA ANDR",
+        "deposito_o_abono":6000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"18\/07\/2025",
+        "detalle_movimiento":"TRASPASO DE:Susel Valdes Fernandez",
+        "deposito_o_abono":88135,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"18\/07\/2025",
+        "detalle_movimiento":"TRASPASO DE:Gloria Beatriz Farcuh",
+        "deposito_o_abono":56000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    }
+]

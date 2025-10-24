@@ -581,6 +581,7 @@ class Softland
             $MovFv = $parametros['fecha']; //deben ser el mismo pero distinto a $CpbFec = $parametros['fecha'];
             $MovNumDocRef = '0';
             $MovGlosa = $parametros['MovGlosa'];
+            $NumDocCb = $parametros['docto']; // ST 24/10/2025
 
             $TipDocCb = 'TR'; // No Definido;
 
@@ -639,7 +640,7 @@ class Softland
             $stmt_movim->bindValue(':CcCod', '00000000', PDO::PARAM_STR);
             #$stmt_movim->bindValue(':TipDocCb', 'TR', PDO::PARAM_STR); //INSERT ANTIGUO
             $stmt_movim->bindValue(':TipDocCb', $TipDocCb, PDO::PARAM_STR);
-            $stmt_movim->bindValue(':NumDocCb', 0, PDO::PARAM_STR);
+            $stmt_movim->bindValue(':NumDocCb', $NumDocCb, PDO::PARAM_STR); //Nro Documento - ST 24/10/2025
             $stmt_movim->bindValue(':CodAux', $CodAux, PDO::PARAM_STR); 
             $stmt_movim->bindValue(':TtdCod', '00', PDO::PARAM_STR);
             $stmt_movim->bindValue(':NumDoc', $NumDoc, PDO::PARAM_STR); 

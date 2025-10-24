@@ -238,7 +238,8 @@ function main()
     $dataPorCuenta = [];
 
     # ---------------------- Ejecutar script Python ----------------------
-    $python = 'C:\Users\programadorll\AppData\Local\Programs\Python\Python312\python.exe';
+    $python = 'C:\Users\programadorll\AppData\Local\Programs\Python\Python312\python.exe'; #ruta local pc chris
+    #$python = 'C:\Users\robot\AppData\Local\Programs\Python\Python312'; #ruta servidor
     $script = 'C:\xampp\htdocs\robot-contabilidad-chile\robotpy\test.py';
     $output = shell_exec("\"$python\" \"$script\" 2>&1");
     echo "<pre>$output</pre>";

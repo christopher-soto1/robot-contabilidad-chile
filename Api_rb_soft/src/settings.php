@@ -92,7 +92,7 @@ return [
             'host' => '192.168.1.3\\SQL2022',
             'dbname' => 'IOPASA2021',
             'user' => 'nelstu',
-            'pass' => 'NSloteria2015',
+            'pass' => 'NSloteria2025',
             'charset' => 'utf8mb4',
         ],
 
@@ -100,7 +100,7 @@ return [
             'host' => '192.168.1.3',
             'dbname' => 'IOPAHUERFANOS',
             'user' => 'nelstu',
-            'pass' => 'NSloteria2015',
+            'pass' => 'NSloteria2025',
             'charset' => 'utf8mb4',
         ],
 
@@ -108,7 +108,7 @@ return [
             'host' => '192.168.1.3\\SQL2022',
             'dbname' => 'PRUEBAIOPASA2021',
             'user' => 'nelstu',
-            'pass' => 'NSloteria2015',
+            'pass' => 'NSloteria2025',
             'charset' => 'utf8mb4',
         ],
     ],

@@ -1,0 +1,38 @@
+************** Ejecución de robot **************
+Clínica: Clínica Iopa
+Fecha y hora: 21-07-2025 11:05:33
+Robot: Robot Contabilidad Web-Scrapping
+Cuenta procesada (Nro. Cuenta Bancaria - últimos 4 dígitos): 80-06
+
+Datos encontrados:
+
+     fecha                 detalle_movimiento  deposito_o_abono  docto._nro.       sucursal
+18/07/2025 TRASPASO DE:Pilar Andrea Araya Cum            676300            0       INTERNET
+18/07/2025  TRASPASO DE:Barbara Jesus Moscoso             61083            0       INTERNET
+18/07/2025 TRASPASO DE:KATHERINE VIVIANA ANDR            780910            0       INTERNET
+18/07/2025               DEPOSITO EN EFECTIVO            676300      6628417 OF. LA FLORIDA
+18/07/2025 TRASPASO DE:Viterbo Servando Verga              2000            0       INTERNET
+18/07/2025 TRASPASO DE:VITERBO SERVANDO VERGA              2000            0       INTERNET
+18/07/2025  TRASPASO DE:Barbara Jesus Moscoso            350000            0       INTERNET
+18/07/2025 TRASPASO DE:VITERBO SERVANDO VERGA            264887            0       INTERNET
+18/07/2025 PAGO:Abonos debito y credito Trans           1004096            0        CENTRAL
+18/07/2025 PAGO:Abonos debito y credito Trans           2572036            0        CENTRAL
+18/07/2025 TRASPASO DE:KATHERINE VIVIANA ANDR              6000            0       INTERNET
+18/07/2025 TRASPASO DE:Susel Valdes Fernandez             88135            0       INTERNET
+18/07/2025  TRASPASO DE:Gloria Beatriz Farcuh             56000            0       INTERNET
+
+Total de ingresos: 6.539.747
+
+************** Fin Ejecución de robot **************
+
+
+
+************************************************
+** Información de Comprobante Softland **
+************************************************
+Fecha del registro: 21-07-2025
+Nro. Cuenta Procesada: 1-01-01-007
+Número de Comprobante: 00006185
+Monto Total de Depósito: 6.539.747
+Anticipo Cliente Insertado: Sí
+************************************************

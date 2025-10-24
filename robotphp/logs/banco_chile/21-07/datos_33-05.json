@@ -1,0 +1,44 @@
+[
+    {
+        "fecha":"18\/07\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":611596,
+        "docto._nro.":5823457,
+        "sucursal":"OF. LA FLORIDA"
+    },
+    {
+        "fecha":"18\/07\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":875640,
+        "docto._nro.":6631944,
+        "sucursal":"OF. LA FLORIDA"
+    },
+    {
+        "fecha":"18\/07\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":14561309,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"18\/07\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":2100,
+        "docto._nro.":8864829,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"18\/07\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":806940,
+        "docto._nro.":8864828,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"18\/07\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":2660610,
+        "docto._nro.":8864838,
+        "sucursal":"PASEO LAS PALMA"
+    }
+]

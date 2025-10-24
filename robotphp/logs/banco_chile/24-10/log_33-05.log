@@ -1,0 +1,31 @@
+************** Ejecución de robot **************
+Clínica: Clínica Iopa
+Fecha y hora: 24-10-2025 16:34:09
+Robot: Robot Contabilidad Web-Scrapping
+Cuenta procesada (Nro. Cuenta Bancaria - últimos 4 dígitos): 33-05
+
+Datos encontrados:
+
+     fecha                 detalle_movimiento  deposito_o_abono  docto._nro.        sucursal
+23/10/2025 PAGO:Abonos debito y credito Trans          13765523            0         CENTRAL
+23/10/2025               DEPOSITO EN EFECTIVO            261600      2953345        OF. BUIN
+23/10/2025               DEPOSITO EN EFECTIVO            543550      4622953  OF. LA FLORIDA
+23/10/2025               DEPOSITO EN EFECTIVO            317390      6568788 PASEO LAS PALMA
+23/10/2025               DEPOSITO EN EFECTIVO            669880      6568816 PASEO LAS PALMA
+23/10/2025               DEPOSITO EN EFECTIVO           1235270      6568787 PASEO LAS PALMA
+
+Total de ingresos: 16.793.213
+
+************** Fin Ejecución de robot **************
+
+
+
+************************************************
+** Información de Comprobante Softland **
+************************************************
+Fecha del registro: 24-10-2025
+Nro. Cuenta Procesada: 1-01-01-003
+Número de Comprobante: 00006192
+Monto Total de Depósito: 16.793.213
+Anticipo Cliente Insertado: Sí
+************************************************

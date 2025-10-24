@@ -1,0 +1,65 @@
+[
+    {
+        "fecha":"23\/10\/2025",
+        "detalle_movimiento":"TRASPASO DE:NORMA AMELIA CASTILLO",
+        "deposito_o_abono":27531,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"23\/10\/2025",
+        "detalle_movimiento":"TRASPASO DE:Tatiana Valeska Romero",
+        "deposito_o_abono":217640,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"23\/10\/2025",
+        "detalle_movimiento":"TRASPASO DE:GONZALEZ PRIETO INALVI",
+        "deposito_o_abono":50472,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"23\/10\/2025",
+        "detalle_movimiento":"TRASPASO DE:PARRA OSORIO ESTER CON",
+        "deposito_o_abono":701072,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"23\/10\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":30303,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"23\/10\/2025",
+        "detalle_movimiento":"TRASPASO DE:PARRA CORREA RAMON ENR",
+        "deposito_o_abono":200000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"23\/10\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":3521871,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"23\/10\/2025",
+        "detalle_movimiento":"TRASPASO DE:ACEVEDO LEMUS MARIA PA",
+        "deposito_o_abono":876294,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"23\/10\/2025",
+        "detalle_movimiento":"TRASPASO DE:Jose Emilio Torres",
+        "deposito_o_abono":3031923,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    }
+]
