@@ -1,0 +1,65 @@
+[
+    {
+        "fecha":"29\/10\/2025",
+        "detalle_movimiento":"TRASPASO DE:SANDOVAL NUNEZ AIDA DE",
+        "deposito_o_abono":221883,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"29\/10\/2025",
+        "detalle_movimiento":"TRASPASO DE:TAPIA LEYTON DANILO CA",
+        "deposito_o_abono":861671,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"29\/10\/2025",
+        "detalle_movimiento":"PAGO:PROVEEDORES 0995090007",
+        "deposito_o_abono":1027518,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"29\/10\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":5817654,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"29\/10\/2025",
+        "detalle_movimiento":"TRASPASO DE:Brenda Simona Araya",
+        "deposito_o_abono":350000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"29\/10\/2025",
+        "detalle_movimiento":"TRASPASO DE:Eliana Marina Larenas",
+        "deposito_o_abono":350000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"29\/10\/2025",
+        "detalle_movimiento":"TRASPASO DE:PEDRO ELEODORO VELOSO",
+        "deposito_o_abono":59501,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"29\/10\/2025",
+        "detalle_movimiento":"TRASPASO DE:PEREZ GALLEGUILLOS OSV",
+        "deposito_o_abono":282000,
+        "docto._nro.":0,
+        "sucursal":"INTERNET"
+    },
+    {
+        "fecha":"29\/10\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":143376,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    }
+]

@@ -238,12 +238,17 @@ function main()
     $dataPorCuenta = [];
 
     # ---------------------- Ejecutar script Python ----------------------
+    
+    #comentar este bloque para ejecutar robot con fecha diferente, no ejecutar python desde este archivo 03/11/2025
+    #modificar tambien test.py desde proyecto de python con los breakpoints, debugguear, modificar la fecha durante la ejeacucion y seguir ejecutando luego
     $python = 'C:\Users\programadorll\AppData\Local\Programs\Python\Python312\python.exe'; #ruta local pc chris
     #$python = 'C:\Users\robot\AppData\Local\Programs\Python\Python312'; #ruta servidor
     $script = 'C:\xampp\htdocs\robot-contabilidad-chile\robotpy\test.py';
     $output = shell_exec("\"$python\" \"$script\" 2>&1");
     echo "<pre>$output</pre>";
-    
+    #comentar este bloque para ejecutar robot con fecha diferente, no ejecutar python desde este archivo 03/11/2025
+    #modificar tambien test.py desde proyecto de python con los breakpoints, debugguear, modificar la fecha durante la ejeacucion y seguir ejecutando luego
+
     # ---------------------- Leer JSONs generados ----------------------
     $destinoWebLogsPhp = "C:\\xampp\\htdocs\\robot-contabilidad-chile\\robotphp\\logs\\banco_chile\\{$fechaRuta}";
 

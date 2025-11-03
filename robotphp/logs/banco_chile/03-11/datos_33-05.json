@@ -1,0 +1,72 @@
+[
+    {
+        "fecha":"29\/10\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":245360,
+        "docto._nro.":5700725,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"29\/10\/2025",
+        "detalle_movimiento":"DEVOLUCION:RECH.BCH DE SUELDOS",
+        "deposito_o_abono":700368,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"29\/10\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":617640,
+        "docto._nro.":5086680,
+        "sucursal":"OF. LA FLORIDA"
+    },
+    {
+        "fecha":"29\/10\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":6130150,
+        "docto._nro.":5700723,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"29\/10\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":73000,
+        "docto._nro.":7399643,
+        "sucursal":"OF. LA FLORIDA"
+    },
+    {
+        "fecha":"29\/10\/2025",
+        "detalle_movimiento":"PAGO:Abonos debito y credito Trans",
+        "deposito_o_abono":18416879,
+        "docto._nro.":0,
+        "sucursal":"CENTRAL"
+    },
+    {
+        "fecha":"29\/10\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":779870,
+        "docto._nro.":5700727,
+        "sucursal":"PASEO LAS PALMA"
+    },
+    {
+        "fecha":"29\/10\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":337000,
+        "docto._nro.":5086679,
+        "sucursal":"OF. LA FLORIDA"
+    },
+    {
+        "fecha":"29\/10\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":458750,
+        "docto._nro.":5086678,
+        "sucursal":"OF. LA FLORIDA"
+    },
+    {
+        "fecha":"29\/10\/2025",
+        "detalle_movimiento":"DEPOSITO EN EFECTIVO",
+        "deposito_o_abono":311910,
+        "docto._nro.":2953341,
+        "sucursal":"OF. BUIN"
+    }
+]

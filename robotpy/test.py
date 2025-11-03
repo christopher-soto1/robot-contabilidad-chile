@@ -180,7 +180,7 @@ def banco_chile(usuario, timeout_sesion):
 
 
             # -------------------------------------------- INICIO DE CUENTA -06 --------------------------------------------
-            #-------------Agregar credenciales
+            #------------- Agregar credenciales
             elemento_usuario = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, "//*[@id='iduserName']")))
             elemento_usuario.send_keys(usuarioB)
             time.sleep(0.5)
@@ -262,6 +262,7 @@ def banco_chile(usuario, timeout_sesion):
             time.sleep(2)
 
             # Obtener fecha de la ultima cartola descargada
+            # Crear breakpoint justo en la siguiente linea para detener el curso, cambiar la fecha manualmente y luego continuar con la ejecucion, ejecutar con debugger de python 03/11/2025
             elemento_cartola = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, "//*[@id='download-0']/div/div[1]/div/div[2]/div[2]/p/span")))
             fecha_cartola = elemento_cartola.text
 
@@ -340,6 +341,7 @@ def banco_chile(usuario, timeout_sesion):
             time.sleep(2)
 
             # Obtener fecha de la última cartola
+            # Crear breakpoint justo en la siguiente linea para detener el curso, cambiar la fecha manualmente y luego continuar con la ejecucion, ejecutar con debugger de python 03/11/2025
             elemento_cartola = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, "//*[@id='download-0']/div/div[1]/div/div[2]/div[2]/p/span")))
             fecha_cartola = elemento_cartola.text
 

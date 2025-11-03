@@ -1,0 +1,23 @@
+************** Ejecución de robot **************
+Clínica: Clínica Iopa
+Fecha y hora: 03-11-2025 08:22:54
+Robot: Robot Contabilidad Web-Scrapping
+Cuenta procesada (Nro. Cuenta Bancaria - últimos 4 dígitos): 80-06
+
+Datos encontrados:
+
+     fecha                 detalle_movimiento  deposito_o_abono  docto._nro. sucursal
+29/10/2025 TRASPASO DE:SANDOVAL NUNEZ AIDA DE            221883            0 INTERNET
+29/10/2025 TRASPASO DE:TAPIA LEYTON DANILO CA            861671            0 INTERNET
+29/10/2025        PAGO:PROVEEDORES 0995090007           1027518            0  CENTRAL
+29/10/2025 PAGO:Abonos debito y credito Trans           5817654            0  CENTRAL
+29/10/2025    TRASPASO DE:Brenda Simona Araya            350000            0 INTERNET
+29/10/2025  TRASPASO DE:Eliana Marina Larenas            350000            0 INTERNET
+29/10/2025  TRASPASO DE:PEDRO ELEODORO VELOSO             59501            0 INTERNET
+29/10/2025 TRASPASO DE:PEREZ GALLEGUILLOS OSV            282000            0 INTERNET
+29/10/2025 PAGO:Abonos debito y credito Trans            143376            0  CENTRAL
+
+Total de ingresos: 9.113.603
+
+************** Fin Ejecución de robot **************
+
